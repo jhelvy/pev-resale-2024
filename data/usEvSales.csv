@@ -1,0 +1,2530 @@
+vehicle,brand,model,category,sales,year,month,source
+Chevrolet Volt,Chevrolet,Volt,phev,326,2010,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,19,2010,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,321,2011,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,87,2011,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,281,2011,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,67,2011,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,608,2011,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,298,2011,3,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2011,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,493,2011,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,573,2011,4,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2011,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,481,2011,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1142,2011,5,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,8,2011,5,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,561,2011,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1708,2011,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,125,2011,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,931,2011,7,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,1,2011,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,302,2011,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1362,2011,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,1,2011,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,723,2011,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1031,2011,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1108,2011,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,849,2011,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,17,2011,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1139,2011,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,672,2011,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,101,2011,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1529,2011,12,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,76,2011,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,954,2011,12,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,182,2011,12,hybridcars.com
+BMW Active E,BMW,Active E,bev,112,2012,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,603,2012,1,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,36,2012,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,676,2012,1,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2012,1,hybridcars.com
+BMW Active E,BMW,Active E,bev,115,2012,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1023,2012,2,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,44,2012,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,478,2012,2,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,2,2012,2,hybridcars.com
+BMW Active E,BMW,Active E,bev,326,2012,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2289,2012,3,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,56,2012,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,579,2012,3,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2012,3,hybridcars.com
+BMW Active E,BMW,Active E,bev,326,2012,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1462,2012,4,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,79,2012,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,370,2012,4,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2012,4,hybridcars.com
+BMW Active E,BMW,Active E,bev,11,2012,5,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1680,2012,5,hybridcars.com
+Ford Focus,Ford,Focus,bev,6,2012,5,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,85,2012,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,510,2012,5,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2012,5,hybridcars.com
+BMW Active E,BMW,Active E,bev,79,2012,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1760,2012,6,hybridcars.com
+Ford Focus,Ford,Focus,bev,89,2012,6,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,33,2012,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,535,2012,6,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,127,2012,6,hybridcars.com
+BMW Active E,BMW,Active E,bev,0,2012,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1849,2012,7,hybridcars.com
+Ford Focus,Ford,Focus,bev,38,2012,7,hybridcars.com
+Honda Fit,Honda,Fit,bev,7,2012,7,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,33,2012,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,395,2012,7,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,6,2012,7,hybridcars.com
+BMW Active E,BMW,Active E,bev,0,2012,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2831,2012,8,hybridcars.com
+Ford Focus,Ford,Focus,bev,34,2012,8,hybridcars.com
+Honda Fit,Honda,Fit,bev,9,2012,8,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,37,2012,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,685,2012,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,1,2012,8,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,71,2012,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2851,2012,9,hybridcars.com
+Ford Focus,Ford,Focus,bev,59,2012,9,hybridcars.com
+Honda Fit,Honda,Fit,bev,16,2012,9,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,36,2012,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,984,2012,9,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2012,9,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,150,2012,9,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,61,2012,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2961,2012,10,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,144,2012,10,hybridcars.com
+Ford Focus,Ford,Focus,bev,118,2012,10,hybridcars.com
+Honda Fit,Honda,Fit,bev,16,2012,10,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,30,2012,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1579,2012,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,0,2012,10,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,450,2012,10,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,47,2012,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1519,2012,11,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,1259,2012,11,hybridcars.com
+Ford Focus,Ford,Focus,bev,172,2012,11,hybridcars.com
+Honda Fit,Honda,Fit,bev,26,2012,11,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,42,2012,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1539,2012,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,3,2012,11,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,800,2012,11,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,32,2012,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2633,2012,12,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,971,2012,12,hybridcars.com
+Ford Focus,Ford,Focus,bev,167,2012,12,hybridcars.com
+Honda Fit,Honda,Fit,bev,19,2012,12,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,77,2012,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1489,2012,12,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,900,2012,12,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1361,2012,12,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,52,2012,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1140,2013,1,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,338,2013,1,hybridcars.com
+Ford Focus,Ford,Focus,bev,81,2013,1,hybridcars.com
+Honda Fit,Honda,Fit,bev,8,2013,1,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,257,2013,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,650,2013,1,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,1,2013,1,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2013,1,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,874,2013,1,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,25,2013,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1626,2013,2,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,334,2013,2,hybridcars.com
+Ford Focus,Ford,Focus,bev,158,2013,2,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,119,2013,2,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,17,2013,2,hybridcars.com
+Honda Fit,Honda,Fit,bev,15,2013,2,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,337,2013,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,653,2013,2,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,1,2013,2,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1500,2013,2,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,693,2013,2,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,52,2013,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1478,2013,3,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,494,2013,3,hybridcars.com
+Ford Focus,Ford,Focus,bev,180,2013,3,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,295,2013,3,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,26,2013,3,hybridcars.com
+Honda Fit,Honda,Fit,bev,23,2013,3,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,31,2013,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2236,2013,3,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1950,2013,3,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,786,2013,3,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,133,2013,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1306,2013,4,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,411,2013,4,hybridcars.com
+Ford Focus,Ford,Focus,bev,147,2013,4,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,364,2013,4,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,55,2013,4,hybridcars.com
+Honda Fit,Honda,Fit,bev,22,2013,4,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,127,2013,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1937,2013,4,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2100,2013,4,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,599,2013,4,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,70,2013,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1607,2013,5,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,450,2013,5,hybridcars.com
+Ford Focus,Ford,Focus,bev,157,2013,5,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,416,2013,5,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,58,2013,5,hybridcars.com
+Honda Fit,Honda,Fit,bev,15,2013,5,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,91,2013,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2138,2013,5,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,60,2013,5,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2000,2013,5,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,678,2013,5,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,84,2013,5,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,27,2013,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2698,2013,6,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,455,2013,6,hybridcars.com
+Ford Focus,Ford,Focus,bev,177,2013,6,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,390,2013,6,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,42,2013,6,hybridcars.com
+Honda Fit,Honda,Fit,bev,208,2013,6,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,39,2013,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2225,2013,6,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,53,2013,6,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1800,2013,6,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,584,2013,6,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,44,2013,6,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,103,2013,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1788,2013,7,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,433,2013,7,hybridcars.com
+Ford Focus,Ford,Focus,bev,150,2013,7,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,407,2013,7,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,54,2013,7,hybridcars.com
+Honda Fit,Honda,Fit,bev,63,2013,7,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,46,2013,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1864,2013,7,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,58,2013,7,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1550,2013,7,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,817,2013,7,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,109,2013,7,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,102,2013,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,3351,2013,8,hybridcars.com
+Fiat 500e,Fiat,500e,bev,50,2013,8,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,621,2013,8,hybridcars.com
+Ford Focus,Ford,Focus,bev,175,2013,8,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,600,2013,8,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,44,2013,8,hybridcars.com
+Honda Fit,Honda,Fit,bev,66,2013,8,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,30,2013,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2420,2013,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,182,2013,8,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1700,2013,8,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1791,2013,8,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,231,2013,8,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,78,2013,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1766,2013,9,hybridcars.com
+Fiat 500e,Fiat,500e,bev,50,2013,9,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,758,2013,9,hybridcars.com
+Ford Focus,Ford,Focus,bev,110,2013,9,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,750,2013,9,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,51,2013,9,hybridcars.com
+Honda Fit,Honda,Fit,bev,35,2013,9,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,20,2013,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1953,2013,9,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,137,2013,9,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1100,2013,9,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1152,2013,9,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,167,2013,9,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,87,2013,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2022,2013,10,hybridcars.com
+Fiat 500e,Fiat,500e,bev,50,2013,10,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,1092,2013,10,hybridcars.com
+Ford Focus,Ford,Focus,bev,115,2013,10,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1087,2013,10,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,71,2013,10,hybridcars.com
+Honda Fit,Honda,Fit,bev,40,2013,10,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,28,2013,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2002,2013,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,111,2013,10,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2013,10,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,2095,2013,10,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,91,2013,10,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,87,2013,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1920,2013,11,hybridcars.com
+Fiat 500e,Fiat,500e,bev,60,2013,11,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,941,2013,11,hybridcars.com
+Ford Focus,Ford,Focus,bev,130,2013,11,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,870,2013,11,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,68,2013,11,hybridcars.com
+Honda Fit,Honda,Fit,bev,23,2013,11,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,12,2013,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2003,2013,11,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,4,2013,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,153,2013,11,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2013,11,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1100,2013,11,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,62,2013,11,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,6,2013,12,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,76,2013,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2392,2013,12,hybridcars.com
+Fiat 500e,Fiat,500e,bev,50,2013,12,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,827,2013,12,hybridcars.com
+Ford Focus,Ford,Focus,bev,158,2013,12,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,791,2013,12,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,38,2013,12,hybridcars.com
+Honda Fit,Honda,Fit,bev,51,2013,12,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,11,2013,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2529,2013,12,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,47,2013,12,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,167,2013,12,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1700,2013,12,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,919,2013,12,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,28,2013,12,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,41,2014,1,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,93,2014,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,918,2014,1,hybridcars.com
+Fiat 500e,Fiat,500e,bev,35,2014,1,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,471,2014,1,hybridcars.com
+Ford Focus,Ford,Focus,bev,100,2014,1,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,533,2014,1,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,27,2014,1,hybridcars.com
+Honda Fit,Honda,Fit,bev,30,2014,1,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,1,2014,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1252,2014,1,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,141,2014,1,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,97,2014,1,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2014,1,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,803,2014,1,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,63,2014,1,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,58,2014,2,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,71,2014,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1210,2014,2,hybridcars.com
+Fiat 500e,Fiat,500e,bev,40,2014,2,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,552,2014,2,hybridcars.com
+Ford Focus,Ford,Focus,bev,129,2014,2,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,779,2014,2,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,24,2014,2,hybridcars.com
+Honda Fit,Honda,Fit,bev,33,2014,2,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,3,2014,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1425,2014,2,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,57,2014,2,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,122,2014,2,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2014,2,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1041,2014,2,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,101,2014,2,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,81,2014,3,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,108,2014,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1478,2014,3,hybridcars.com
+Fiat 500e,Fiat,500e,bev,166,2014,3,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,610,2014,3,hybridcars.com
+Ford Focus,Ford,Focus,bev,177,2014,3,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,899,2014,3,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,18,2014,3,hybridcars.com
+Honda Fit,Honda,Fit,bev,37,2014,3,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,24,2014,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2507,2014,3,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,56,2014,3,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,186,2014,3,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2014,3,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1452,2014,3,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,73,2014,3,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,61,2014,4,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,97,2014,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1548,2014,4,hybridcars.com
+Fiat 500e,Fiat,500e,bev,152,2014,4,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,525,2014,4,hybridcars.com
+Ford Focus,Ford,Focus,bev,116,2014,4,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,743,2014,4,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,37,2014,4,hybridcars.com
+Honda Fit,Honda,Fit,bev,50,2014,4,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,12,2014,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2088,2014,4,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,63,2014,4,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,203,2014,4,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2014,4,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1741,2014,4,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,69,2014,4,hybridcars.com
+BMW i3,BMW,i3,bev,336,2014,5,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,52,2014,5,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,182,2014,5,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1684,2014,5,hybridcars.com
+Fiat 500e,Fiat,500e,bev,167,2014,5,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,782,2014,5,hybridcars.com
+Ford Focus,Ford,Focus,bev,177,2014,5,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1342,2014,5,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,46,2014,5,hybridcars.com
+Honda Fit,Honda,Fit,bev,33,2014,5,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,35,2014,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,3117,2014,5,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,53,2014,5,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,206,2014,5,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2014,5,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,2692,2014,5,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,149,2014,5,hybridcars.com
+BMW i3,BMW,i3,bev,358,2014,6,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,97,2014,6,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,85,2014,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1777,2014,6,hybridcars.com
+Fiat 500e,Fiat,500e,bev,166,2014,6,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,988,2014,6,hybridcars.com
+Ford Focus,Ford,Focus,bev,197,2014,6,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1939,2014,6,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,28,2014,6,hybridcars.com
+Honda Fit,Honda,Fit,bev,38,2014,6,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,22,2014,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2347,2014,6,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,111,2014,6,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,278,2014,6,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2014,6,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1571,2014,6,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,91,2014,6,hybridcars.com
+BMW i3,BMW,i3,bev,363,2014,7,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,188,2014,7,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,128,2014,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2020,2014,7,hybridcars.com
+Fiat 500e,Fiat,500e,bev,119,2014,7,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,831,2014,7,hybridcars.com
+Ford Focus,Ford,Focus,bev,198,2014,7,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1226,2014,7,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,41,2014,7,hybridcars.com
+Honda Fit,Honda,Fit,bev,42,2014,7,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,41,2014,7,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,17,2014,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,3019,2014,7,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,63,2014,7,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,298,2014,7,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2014,7,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,1371,2014,7,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,68,2014,7,hybridcars.com
+BMW i3,BMW,i3,bev,1025,2014,8,hybridcars.com
+BMW i8,BMW,i8,phev,9,2014,8,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,196,2014,8,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,80,2014,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2511,2014,8,hybridcars.com
+Fiat 500e,Fiat,500e,bev,166,2014,8,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,1050,2014,8,hybridcars.com
+Ford Focus,Ford,Focus,bev,264,2014,8,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1222,2014,8,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,46,2014,8,hybridcars.com
+Honda Fit,Honda,Fit,bev,55,2014,8,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,51,2014,8,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,20,2014,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,3186,2014,8,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,68,2014,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,208,2014,8,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1200,2014,8,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,818,2014,8,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,228,2014,8,hybridcars.com
+BMW i3,BMW,i3,bev,1022,2014,9,hybridcars.com
+BMW i8,BMW,i8,phev,58,2014,9,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,111,2014,9,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,51,2014,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1394,2014,9,hybridcars.com
+Fiat 500e,Fiat,500e,bev,137,2014,9,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,677,2014,9,hybridcars.com
+Ford Focus,Ford,Focus,bev,176,2014,9,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,640,2014,9,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,42,2014,9,hybridcars.com
+Honda Fit,Honda,Fit,bev,29,2014,9,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,65,2014,9,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,15,2014,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2881,2014,9,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,82,2014,9,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,182,2014,9,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2014,9,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,353,2014,9,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,125,2014,9,hybridcars.com
+BMW i3,BMW,i3,bev,1159,2014,10,hybridcars.com
+BMW i8,BMW,i8,phev,204,2014,10,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,152,2014,10,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,58,2014,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1439,2014,10,hybridcars.com
+Fiat 500e,Fiat,500e,bev,140,2014,10,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,644,2014,10,hybridcars.com
+Ford Focus,Ford,Focus,bev,186,2014,10,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,686,2014,10,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,34,2014,10,hybridcars.com
+Honda Fit,Honda,Fit,bev,23,2014,10,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,98,2014,10,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,17,2014,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2589,2014,10,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,97,2014,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,150,2014,10,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2014,10,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,479,2014,10,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,97,2014,10,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,1,2014,10,hybridcars.com
+BMW i3,BMW,i3,bev,816,2014,11,hybridcars.com
+BMW i8,BMW,i8,phev,126,2014,11,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,155,2014,11,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,61,2014,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1336,2014,11,hybridcars.com
+Fiat 500e,Fiat,500e,bev,100,2014,11,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,644,2014,11,hybridcars.com
+Ford Focus,Ford,Focus,bev,191,2014,11,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,752,2014,11,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,43,2014,11,hybridcars.com
+Honda Fit,Honda,Fit,bev,5,2014,11,hybridcars.com
+Kia Soul,Kia,Soul,bev,140,2014,11,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,193,2014,11,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,18,2014,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2687,2014,11,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,45,2014,11,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,57,2014,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,313,2014,11,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1450,2014,11,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,451,2014,11,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,83,2014,11,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,119,2014,11,hybridcars.com
+BMW i3,BMW,i3,bev,1013,2014,12,hybridcars.com
+BMW i8,BMW,i8,phev,158,2014,12,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,118,2014,12,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,131,2014,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1490,2014,12,hybridcars.com
+Fiat 500e,Fiat,500e,bev,115,2014,12,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,659,2014,12,hybridcars.com
+Ford Focus,Ford,Focus,bev,53,2014,12,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,789,2014,12,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,63,2014,12,hybridcars.com
+Honda Fit,Honda,Fit,bev,32,2014,12,hybridcars.com
+Kia Soul,Kia,Soul,bev,110,2014,12,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,326,2014,12,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,12,2014,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,3102,2014,12,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,67,2014,12,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,31,2014,12,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,351,2014,12,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1900,2014,12,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,492,2014,12,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,37,2014,12,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,237,2014,12,hybridcars.com
+BMW i3,BMW,i3,bev,670,2015,1,hybridcars.com
+BMW i8,BMW,i8,phev,85,2015,1,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,92,2015,1,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,86,2015,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,542,2015,1,hybridcars.com
+Fiat 500e,Fiat,500e,bev,119,2015,1,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,395,2015,1,hybridcars.com
+Ford Focus,Ford,Focus,bev,85,2015,1,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,426,2015,1,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,28,2015,1,hybridcars.com
+Kia Soul,Kia,Soul,bev,69,2015,1,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,240,2015,1,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,3,2015,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1070,2015,1,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,83,2015,1,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,61,2015,1,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,147,2015,1,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2015,1,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,401,2015,1,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,7,2015,1,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,181,2015,1,hybridcars.com
+BMW i3,BMW,i3,bev,1089,2015,2,hybridcars.com
+BMW i8,BMW,i8,phev,113,2015,2,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,127,2015,2,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,119,2015,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,693,2015,2,hybridcars.com
+Fiat 500e,Fiat,500e,bev,117,2015,2,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,498,2015,2,hybridcars.com
+Ford Focus,Ford,Focus,bev,145,2015,2,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,603,2015,2,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,12,2015,2,hybridcars.com
+Kia Soul,Kia,Soul,bev,48,2015,2,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,109,2015,2,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,2,2015,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1198,2015,2,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,106,2015,2,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,40,2015,2,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,76,2015,2,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2015,2,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,397,2015,2,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,2,2015,2,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,130,2015,2,hybridcars.com
+BMW i3,BMW,i3,bev,922,2015,3,hybridcars.com
+BMW i8,BMW,i8,phev,143,2015,3,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,92,2015,3,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,151,2015,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,639,2015,3,hybridcars.com
+Fiat 500e,Fiat,500e,bev,164,2015,3,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,715,2015,3,hybridcars.com
+Ford Focus,Ford,Focus,bev,140,2015,3,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,837,2015,3,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,5,2015,3,hybridcars.com
+Honda Fit,Honda,Fit,bev,1,2015,3,hybridcars.com
+Kia Soul,Kia,Soul,bev,63,2015,3,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,145,2015,3,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,10,2015,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1817,2015,3,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,72,2015,3,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,44,2015,3,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,103,2015,3,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2000,2015,3,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,473,2015,3,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,4,2015,3,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,195,2015,3,hybridcars.com
+BMW i3,BMW,i3,bev,406,2015,4,hybridcars.com
+BMW i8,BMW,i8,phev,138,2015,4,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,104,2015,4,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,920,2015,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,905,2015,4,hybridcars.com
+Fiat 500e,Fiat,500e,bev,450,2015,4,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,553,2015,4,hybridcars.com
+Ford Focus,Ford,Focus,bev,124,2015,4,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,711,2015,4,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,5,2015,4,hybridcars.com
+Kia Soul,Kia,Soul,bev,73,2015,4,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,158,2015,4,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,16,2015,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1553,2015,4,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,88,2015,4,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,30,2015,4,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,124,2015,4,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1900,2015,4,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,428,2015,4,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,4,2015,4,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,309,2015,4,hybridcars.com
+BMW i3,BMW,i3,bev,818,2015,5,hybridcars.com
+BMW i8,BMW,i8,phev,117,2015,5,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,116,2015,5,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,283,2015,5,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1618,2015,5,hybridcars.com
+Fiat 500e,Fiat,500e,bev,471,2015,5,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,715,2015,5,hybridcars.com
+Ford Focus,Ford,Focus,bev,165,2015,5,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,986,2015,5,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,5,2015,5,hybridcars.com
+Kia Soul,Kia,Soul,bev,108,2015,5,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,278,2015,5,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,18,2015,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2104,2015,5,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,111,2015,5,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,21,2015,5,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,102,2015,5,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2300,2015,5,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,727,2015,5,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,410,2015,5,hybridcars.com
+BMW i3,BMW,i3,bev,551,2015,6,hybridcars.com
+BMW i8,BMW,i8,phev,137,2015,6,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,62,2015,6,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,226,2015,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1225,2015,6,hybridcars.com
+Fiat 500e,Fiat,500e,bev,411,2015,6,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,667,2015,6,hybridcars.com
+Ford Focus,Ford,Focus,bev,152,2015,6,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,727,2015,6,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,4,2015,6,hybridcars.com
+Kia Soul,Kia,Soul,bev,109,2015,6,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,242,2015,6,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,23,2015,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,2074,2015,6,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,89,2015,6,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,34,2015,6,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,94,2015,6,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2800,2015,6,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,464,2015,6,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,293,2015,6,hybridcars.com
+BMW i3,BMW,i3,bev,935,2015,7,hybridcars.com
+BMW i8,BMW,i8,phev,217,2015,7,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,66,2015,7,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,57,2015,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1313,2015,7,hybridcars.com
+Fiat 500e,Fiat,500e,bev,353,2015,7,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,693,2015,7,hybridcars.com
+Ford Focus,Ford,Focus,bev,135,2015,7,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,852,2015,7,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,1,2015,7,hybridcars.com
+Kia Soul,Kia,Soul,bev,59,2015,7,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,196,2015,7,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,10,2015,7,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,12,2015,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1174,2015,7,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,77,2015,7,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,23,2015,7,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,109,2015,7,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1800,2015,7,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,584,2015,7,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,313,2015,7,hybridcars.com
+BMW i3,BMW,i3,bev,792,2015,8,hybridcars.com
+BMW i8,BMW,i8,phev,210,2015,8,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,45,2015,8,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,135,2015,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1380,2015,8,hybridcars.com
+Fiat 500e,Fiat,500e,bev,370,2015,8,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,723,2015,8,hybridcars.com
+Ford Focus,Ford,Focus,bev,176,2015,8,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,949,2015,8,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,2,2015,8,hybridcars.com
+Kia Soul,Kia,Soul,bev,93,2015,8,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,172,2015,8,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,10,2015,8,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,6,2015,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1393,2015,8,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,83,2015,8,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,36,2015,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,106,2015,8,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1600,2015,8,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,344,2015,8,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,381,2015,8,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,4,2015,8,hybridcars.com
+BMW i3,BMW,i3,bev,1710,2015,9,hybridcars.com
+BMW i8,BMW,i8,phev,182,2015,9,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,36,2015,9,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,157,2015,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,949,2015,9,hybridcars.com
+Fiat 500e,Fiat,500e,bev,347,2015,9,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,719,2015,9,hybridcars.com
+Ford Focus,Ford,Focus,bev,145,2015,9,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,808,2015,9,hybridcars.com
+Kia Soul,Kia,Soul,bev,105,2015,9,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,147,2015,9,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,17,2015,9,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,3,2015,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1247,2015,9,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,70,2015,9,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,41,2015,9,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,94,2015,9,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2400,2015,9,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,6,2015,9,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,216,2015,9,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,343,2015,9,hybridcars.com
+BMW i3,BMW,i3,bev,986,2015,10,hybridcars.com
+BMW i8,BMW,i8,phev,149,2015,10,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,82,2015,10,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,177,2015,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2035,2015,10,hybridcars.com
+Fiat 500e,Fiat,500e,bev,231,2015,10,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,695,2015,10,hybridcars.com
+Ford Focus,Ford,Focus,bev,126,2015,10,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,849,2015,10,hybridcars.com
+Honda Fit,Honda,Fit,bev,1,2015,10,hybridcars.com
+Kia Soul,Kia,Soul,bev,109,2015,10,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,81,2015,10,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,25,2015,10,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,9,2015,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1238,2015,10,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,126,2015,10,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,28,2015,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,75,2015,10,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2100,2015,10,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,10,2015,10,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,91,2015,10,hybridcars.com
+Toyota RAV4,Toyota,RAV4,bev,1,2015,10,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,596,2015,10,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,1,2015,10,hybridcars.com
+BMW i3,BMW,i3,bev,723,2015,11,hybridcars.com
+BMW i8,BMW,i8,phev,118,2015,11,hybridcars.com
+BMW X5,BMW,X5,phev,167,2015,11,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,67,2015,11,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,166,2015,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1980,2015,11,hybridcars.com
+Fiat 500e,Fiat,500e,bev,174,2015,11,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,639,2015,11,hybridcars.com
+Ford Focus,Ford,Focus,bev,93,2015,11,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,944,2015,11,hybridcars.com
+Kia Soul,Kia,Soul,bev,83,2015,11,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,41,2015,11,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,21,2015,11,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,4,2015,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1054,2015,11,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,121,2015,11,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,33,2015,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,178,2015,11,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,3100,2015,11,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,15,2015,11,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,44,2015,11,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,472,2015,11,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,7,2015,11,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,49,2015,12,hybridcars.com
+BMW i3,BMW,i3,bev,1422,2015,12,hybridcars.com
+BMW i8,BMW,i8,phev,656,2015,12,hybridcars.com
+BMW X5,BMW,X5,phev,607,2015,12,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,135,2015,12,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,152,2015,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2114,2015,12,hybridcars.com
+Fiat 500e,Fiat,500e,bev,270,2015,12,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,579,2015,12,hybridcars.com
+Ford Focus,Ford,Focus,bev,96,2015,12,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1058,2015,12,hybridcars.com
+Honda Accord Plug In,Honda,Accord Plug In,phev,1,2015,12,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,135,2015,12,hybridcars.com
+Kia Soul,Kia,Soul,bev,96,2015,12,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,97,2015,12,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,35,2015,12,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,9,2015,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1347,2015,12,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,137,2015,12,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,16,2015,12,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,179,2015,12,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,3202,2015,12,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,177,2015,12,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,22,2015,12,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,609,2015,12,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,74,2015,12,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,327,2016,1,hybridcars.com
+BMW i3,BMW,i3,bev,182,2016,1,hybridcars.com
+BMW i8,BMW,i8,phev,32,2016,1,hybridcars.com
+BMW X5,BMW,X5,phev,181,2016,1,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,67,2016,1,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,139,2016,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,996,2016,1,hybridcars.com
+Fiat 500e,Fiat,500e,bev,217,2016,1,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,350,2016,1,hybridcars.com
+Ford Focus,Ford,Focus,bev,66,2016,1,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,581,2016,1,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,175,2016,1,hybridcars.com
+Kia Soul,Kia,Soul,bev,81,2016,1,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,58,2016,1,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,19,2016,1,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,2,2016,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,755,2016,1,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,146,2016,1,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,27,2016,1,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,48,2016,1,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1300,2016,1,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,400,2016,1,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,10,2016,1,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,328,2016,1,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,226,2016,1,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,248,2016,2,hybridcars.com
+BMW i3,BMW,i3,bev,248,2016,2,hybridcars.com
+BMW i8,BMW,i8,phev,54,2016,2,hybridcars.com
+BMW X5,BMW,X5,phev,345,2016,2,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,91,2016,2,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,216,2016,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1126,2016,2,hybridcars.com
+Fiat 500e,Fiat,500e,bev,195,2016,2,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,490,2016,2,hybridcars.com
+Ford Focus,Ford,Focus,bev,81,2016,2,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,932,2016,2,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,200,2016,2,hybridcars.com
+Kia Soul,Kia,Soul,bev,60,2016,2,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,37,2016,2,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,36,2016,2,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,5,2016,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,930,2016,2,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,172,2016,2,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,33,2016,2,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,54,2016,2,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1900,2016,2,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,500,2016,2,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,6,2016,2,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,198,2016,2,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,176,2016,2,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,332,2016,3,hybridcars.com
+BMW i3,BMW,i3,bev,332,2016,3,hybridcars.com
+BMW i8,BMW,i8,phev,89,2016,3,hybridcars.com
+BMW X5,BMW,X5,phev,313,2016,3,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,104,2016,3,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,252,2016,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1865,2016,3,hybridcars.com
+Fiat 500e,Fiat,500e,bev,373,2016,3,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,610,2016,3,hybridcars.com
+Ford Focus,Ford,Focus,bev,110,2016,3,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1238,2016,3,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,275,2016,3,hybridcars.com
+Kia Soul,Kia,Soul,bev,79,2016,3,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,66,2016,3,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,12,2016,3,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,1,2016,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1246,2016,3,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,244,2016,3,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,23,2016,3,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,70,2016,3,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,3000,2016,3,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1500,2016,3,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,7,2016,3,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,86,2016,3,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,178,2016,3,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,321,2016,4,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,25,2016,4,hybridcars.com
+BMW i3,BMW,i3,bev,814,2016,4,hybridcars.com
+BMW i8,BMW,i8,phev,130,2016,4,hybridcars.com
+BMW X5,BMW,X5,phev,655,2016,4,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,95,2016,4,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,419,2016,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1983,2016,4,hybridcars.com
+Fiat 500e,Fiat,500e,bev,372,2016,4,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,607,2016,4,hybridcars.com
+Ford Focus,Ford,Focus,bev,81,2016,4,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1331,2016,4,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,250,2016,4,hybridcars.com
+Kia Soul,Kia,Soul,bev,139,2016,4,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,56,2016,4,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,29,2016,4,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,6,2016,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,787,2016,4,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,237,2016,4,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,25,2016,4,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,66,2016,4,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1700,2016,4,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1500,2016,4,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,4,2016,4,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,326,2016,4,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,150,2016,4,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,361,2016,5,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,67,2016,5,hybridcars.com
+BMW i3,BMW,i3,bev,696,2016,5,hybridcars.com
+BMW i8,BMW,i8,phev,146,2016,5,hybridcars.com
+BMW X5,BMW,X5,phev,500,2016,5,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,45,2016,5,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,394,2016,5,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1901,2016,5,hybridcars.com
+Fiat 500e,Fiat,500e,bev,388,2016,5,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,538,2016,5,hybridcars.com
+Ford Focus,Ford,Focus,bev,54,2016,5,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1453,2016,5,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,250,2016,5,hybridcars.com
+Kia Soul,Kia,Soul,bev,120,2016,5,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,49,2016,5,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,27,2016,5,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,2,2016,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,979,2016,5,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,191,2016,5,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,26,2016,5,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,75,2016,5,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1500,2016,5,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,2000,2016,5,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,4,2016,5,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,269,2016,5,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,110,2016,5,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,353,2016,6,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,26,2016,6,hybridcars.com
+BMW i3,BMW,i3,bev,608,2016,6,hybridcars.com
+BMW i8,BMW,i8,phev,169,2016,6,hybridcars.com
+BMW X5,BMW,X5,phev,583,2016,6,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,94,2016,6,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,359,2016,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1937,2016,6,hybridcars.com
+Fiat 500e,Fiat,500e,bev,278,2016,6,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,630,2016,6,hybridcars.com
+Ford Focus,Ford,Focus,bev,54,2016,6,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1700,2016,6,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,200,2016,6,hybridcars.com
+Kia Soul,Kia,Soul,bev,134,2016,6,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,44,2016,6,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,27,2016,6,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,4,2016,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1096,2016,6,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,176,2016,6,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,22,2016,6,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,53,2016,6,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2800,2016,6,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,2000,2016,6,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,11,2016,6,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,248,2016,6,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,166,2016,6,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,349,2016,7,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,81,2016,7,hybridcars.com
+BMW i3,BMW,i3,bev,1479,2016,7,hybridcars.com
+BMW i8,BMW,i8,phev,166,2016,7,hybridcars.com
+BMW X5,BMW,X5,phev,649,2016,7,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,15,2016,7,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,333,2016,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2406,2016,7,hybridcars.com
+Fiat 500e,Fiat,500e,bev,274,2016,7,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,755,2016,7,hybridcars.com
+Ford Focus,Ford,Focus,bev,58,2016,7,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1341,2016,7,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,350,2016,7,hybridcars.com
+Kia Soul,Kia,Soul,bev,179,2016,7,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,50,2016,7,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,30,2016,7,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,32,2016,7,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,20,2016,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1063,2016,7,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,148,2016,7,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,21,2016,7,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,62,2016,7,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2400,2016,7,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1500,2016,7,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,4,2016,7,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,344,2016,7,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,178,2016,7,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,346,2016,8,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,51,2016,8,hybridcars.com
+BMW i3,BMW,i3,bev,1013,2016,8,hybridcars.com
+BMW i8,BMW,i8,phev,145,2016,8,hybridcars.com
+BMW X5,BMW,X5,phev,876,2016,8,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,6,2016,8,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,292,2016,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2081,2016,8,hybridcars.com
+Fiat 500e,Fiat,500e,bev,311,2016,8,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,707,2016,8,hybridcars.com
+Ford Focus,Ford,Focus,bev,75,2016,8,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1422,2016,8,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,250,2016,8,hybridcars.com
+Kia Soul,Kia,Soul,bev,153,2016,8,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,57,2016,8,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,24,2016,8,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,30,2016,8,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,25,2016,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1066,2016,8,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,197,2016,8,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,59,2016,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,55,2016,8,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,3200,2016,8,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1900,2016,8,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,2,2016,8,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,454,2016,8,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,176,2016,8,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,312,2016,9,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,54,2016,9,hybridcars.com
+BMW i3,BMW,i3,bev,391,2016,9,hybridcars.com
+BMW i8,BMW,i8,phev,158,2016,9,hybridcars.com
+BMW X5,BMW,X5,phev,482,2016,9,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,6,2016,9,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,315,2016,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2031,2016,9,hybridcars.com
+Fiat 500e,Fiat,500e,bev,370,2016,9,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,689,2016,9,hybridcars.com
+Ford Focus,Ford,Focus,bev,82,2016,9,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1652,2016,9,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,275,2016,9,hybridcars.com
+Kia Soul,Kia,Soul,bev,217,2016,9,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,51,2016,9,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,26,2016,9,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,41,2016,9,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,17,2016,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1316,2016,9,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,131,2016,9,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,28,2016,9,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,44,2016,9,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,4100,2016,9,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,2600,2016,9,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,4,2016,9,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,529,2016,9,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,148,2016,9,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,348,2016,10,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,92,2016,10,hybridcars.com
+BMW i3,BMW,i3,bev,442,2016,10,hybridcars.com
+BMW i8,BMW,i8,phev,199,2016,10,hybridcars.com
+BMW X5,BMW,X5,phev,406,2016,10,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,3,2016,10,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,260,2016,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2191,2016,10,hybridcars.com
+Fiat 500e,Fiat,500e,bev,319,2016,10,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,571,2016,10,hybridcars.com
+Ford Focus,Ford,Focus,bev,73,2016,10,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1372,2016,10,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,250,2016,10,hybridcars.com
+Kia Soul,Kia,Soul,bev,190,2016,10,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,58,2016,10,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,19,2016,10,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,174,2016,10,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,4,2016,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1412,2016,10,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,138,2016,10,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,38,2016,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,43,2016,10,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1200,2016,10,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1000,2016,10,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,407,2016,10,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,142,2016,10,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,394,2016,11,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,215,2016,11,hybridcars.com
+BMW i3,BMW,i3,bev,629,2016,11,hybridcars.com
+BMW i8,BMW,i8,phev,173,2016,11,hybridcars.com
+BMW X5,BMW,X5,phev,436,2016,11,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,5,2016,11,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,39,2016,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2531,2016,11,hybridcars.com
+Fiat 500e,Fiat,500e,bev,287,2016,11,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,721,2016,11,hybridcars.com
+Ford Focus,Ford,Focus,bev,66,2016,11,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1817,2016,11,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,275,2016,11,hybridcars.com
+Kia Soul,Kia,Soul,bev,179,2016,11,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,52,2016,11,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,30,2016,11,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,52,2016,11,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,5,2016,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1457,2016,11,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,179,2016,11,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,88,2016,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,47,2016,11,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1800,2016,11,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1400,2016,11,hybridcars.com
+Toyota Prius,Toyota,Prius,phev,781,2016,11,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,305,2016,11,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,161,2016,11,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,589,2016,12,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,240,2016,12,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,23,2016,12,hybridcars.com
+BMW i3,BMW,i3,bev,791,2016,12,hybridcars.com
+BMW i8,BMW,i8,phev,133,2016,12,hybridcars.com
+BMW X5,BMW,X5,phev,569,2016,12,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,3,2016,12,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,579,2016,12,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,17,2016,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,3691,2016,12,hybridcars.com
+Fiat 500e,Fiat,500e,bev,353,2016,12,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,1289,2016,12,hybridcars.com
+Ford Focus,Ford,Focus,bev,101,2016,12,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1099,2016,12,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,250,2016,12,hybridcars.com
+Kia Soul,Kia,Soul,bev,197,2016,12,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,54,2016,12,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,171,2016,12,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,83,2016,12,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,71,2016,12,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,3,2016,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1899,2016,12,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,152,2016,12,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,3,2016,12,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,40,2016,12,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,5300,2016,12,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,3300,2016,12,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1641,2016,12,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,443,2016,12,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,204,2016,12,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,387,2017,1,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,129,2017,1,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,18,2017,1,hybridcars.com
+BMW i3,BMW,i3,bev,382,2017,1,hybridcars.com
+BMW i8,BMW,i8,phev,50,2017,1,hybridcars.com
+BMW X5,BMW,X5,phev,262,2017,1,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,3,2017,1,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1162,2017,1,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,4,2017,1,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1611,2017,1,hybridcars.com
+Fiat 500e,Fiat,500e,bev,305,2017,1,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,473,2017,1,hybridcars.com
+Ford Focus,Ford,Focus,bev,56,2017,1,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,606,2017,1,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,150,2017,1,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,40,2017,1,hybridcars.com
+Kia Soul,Kia,Soul,bev,117,2017,1,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,53,2017,1,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,210,2017,1,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,52,2017,1,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,55,2017,1,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,772,2017,1,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,177,2017,1,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,2,2017,1,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,15,2017,1,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1200,2017,1,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1000,2017,1,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1366,2017,1,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,332,2017,1,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,96,2017,1,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,400,2017,2,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,144,2017,2,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,35,2017,2,hybridcars.com
+BMW i3,BMW,i3,bev,318,2017,2,hybridcars.com
+BMW i8,BMW,i8,phev,58,2017,2,hybridcars.com
+BMW X5,BMW,X5,phev,275,2017,2,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,952,2017,2,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,4,2017,2,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1820,2017,2,hybridcars.com
+Fiat 500e,Fiat,500e,bev,283,2017,2,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,639,2017,2,hybridcars.com
+Ford Focus,Ford,Focus,bev,228,2017,2,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,837,2017,2,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,250,2017,2,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,61,2017,2,hybridcars.com
+Kia Soul,Kia,Soul,bev,152,2017,2,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,56,2017,2,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,51,2017,2,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,59,2017,2,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,51,2017,2,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,1,2017,2,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1037,2017,2,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,121,2017,2,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,1,2017,2,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,22,2017,2,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1700,2017,2,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,800,2017,2,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1362,2017,2,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,293,2017,2,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,83,2017,2,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,414,2017,3,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,365,2017,3,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,42,2017,3,hybridcars.com
+BMW i3,BMW,i3,bev,703,2017,3,hybridcars.com
+BMW i8,BMW,i8,phev,49,2017,3,hybridcars.com
+BMW X5,BMW,X5,phev,397,2017,3,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,2,2017,3,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,978,2017,3,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,3,2017,3,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,2132,2017,3,hybridcars.com
+Fiat 500e,Fiat,500e,bev,418,2017,3,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,662,2017,3,hybridcars.com
+Ford Focus,Ford,Focus,bev,407,2017,3,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1002,2017,3,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,275,2017,3,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,70,2017,3,hybridcars.com
+Kia Soul,Kia,Soul,bev,171,2017,3,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,50,2017,3,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,17,2017,3,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,47,2017,3,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,60,2017,3,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,3,2017,3,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1478,2017,3,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,126,2017,3,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,3,2017,3,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,13,2017,3,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,3100,2017,3,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,2500,2017,3,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1618,2017,3,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,342,2017,3,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,103,2017,3,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,301,2017,4,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,260,2017,4,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,123,2017,4,hybridcars.com
+BMW i3,BMW,i3,bev,516,2017,4,hybridcars.com
+BMW i8,BMW,i8,phev,23,2017,4,hybridcars.com
+BMW X5,BMW,X5,phev,291,2017,4,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,6,2017,4,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,2,2017,4,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1292,2017,4,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,1,2017,4,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1807,2017,4,hybridcars.com
+Fiat 500e,Fiat,500e,bev,300,2017,4,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,720,2017,4,hybridcars.com
+Ford Focus,Ford,Focus,bev,125,2017,4,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,905,2017,4,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,19,2017,4,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,300,2017,4,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,86,2017,4,hybridcars.com
+Kia Soul,Kia,Soul,bev,167,2017,4,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,66,2017,4,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,3,2017,4,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,36,2017,4,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,81,2017,4,hybridcars.com
+Mitsubishi i-Mi,Mitsubishi,i-Mi,bev,2,2017,4,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1063,2017,4,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,185,2017,4,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,2,2017,4,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,3,2017,4,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1200,2017,4,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,900,2017,4,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1819,2017,4,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,307,2017,4,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,145,2017,4,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,294,2017,5,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,475,2017,5,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,147,2017,5,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,33,2017,5,hybridcars.com
+BMW i3,BMW,i3,bev,506,2017,5,hybridcars.com
+BMW i8,BMW,i8,phev,18,2017,5,hybridcars.com
+BMW X5,BMW,X5,phev,433,2017,5,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,16,2017,5,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1566,2017,5,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1817,2017,5,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,800,2017,5,hybridcars.com
+Fiat 500e,Fiat,500e,bev,310,2017,5,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,950,2017,5,hybridcars.com
+Ford Focus,Ford,Focus,bev,132,2017,5,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1000,2017,5,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,75,2017,5,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,225,2017,5,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,85,2017,5,hybridcars.com
+Kia Soul,Kia,Soul,bev,129,2017,5,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,46,2017,5,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,7,2017,5,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,33,2017,5,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,83,2017,5,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1392,2017,5,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,174,2017,5,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,1,2017,5,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1700,2017,5,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1800,2017,5,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1908,2017,5,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,381,2017,5,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,146,2017,5,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,324,2017,6,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,496,2017,6,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,239,2017,6,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,52,2017,6,hybridcars.com
+BMW i3,BMW,i3,bev,567,2017,6,hybridcars.com
+BMW i8,BMW,i8,phev,22,2017,6,hybridcars.com
+BMW X5,BMW,X5,phev,488,2017,6,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,20,2017,6,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,7,2017,6,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1642,2017,6,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,1,2017,6,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1745,2017,6,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,350,2017,6,hybridcars.com
+Fiat 500e,Fiat,500e,bev,249,2017,6,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,936,2017,6,hybridcars.com
+Ford Focus,Ford,Focus,bev,110,2017,6,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,707,2017,6,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,58,2017,6,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,175,2017,6,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,78,2017,6,hybridcars.com
+Kia Soul,Kia,Soul,bev,100,2017,6,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,46,2017,6,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,41,2017,6,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,81,2017,6,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,10,2017,6,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1506,2017,6,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,195,2017,6,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,3,2017,6,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2200,2017,6,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,2100,2017,6,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1619,2017,6,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,232,2017,6,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,202,2017,6,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,218,2017,7,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,387,2017,7,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,343,2017,7,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,80,2017,7,hybridcars.com
+BMW i3,BMW,i3,bev,601,2017,7,hybridcars.com
+BMW i8,BMW,i8,phev,55,2017,7,hybridcars.com
+BMW X5,BMW,X5,phev,463,2017,7,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,22,2017,7,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,2,2017,7,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1971,2017,7,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,1,2017,7,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1518,2017,7,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,125,2017,7,hybridcars.com
+Fiat 500e,Fiat,500e,bev,257,2017,7,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,844,2017,7,hybridcars.com
+Ford Focus,Ford,Focus,bev,148,2017,7,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,703,2017,7,hybridcars.com
+Honda Clarity B,Honda,Clarity B,bev,34,2017,7,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,43,2017,7,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,200,2017,7,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,130,2017,7,hybridcars.com
+Kia Soul,Kia,Soul,bev,145,2017,7,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,81,2017,7,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,112,2017,7,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,27,2017,7,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,124,2017,7,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,75,2017,7,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1283,2017,7,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,160,2017,7,hybridcars.com
+Tesla Model 3,Tesla,Model 3,bev,30,2017,7,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1500,2017,7,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1400,2017,7,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1645,2017,7,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,308,2017,7,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,174,2017,7,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,129,2017,8,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,409,2017,8,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,345,2017,8,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,39,2017,8,hybridcars.com
+BMW i3,BMW,i3,bev,504,2017,8,hybridcars.com
+BMW i8,BMW,i8,phev,29,2017,8,hybridcars.com
+BMW X5,BMW,X5,phev,317,2017,8,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,23,2017,8,hybridcars.com
+Cadillac ELR,Cadillac,ELR,phev,1,2017,8,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2107,2017,8,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1445,2017,8,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,400,2017,8,hybridcars.com
+Fiat 500e,Fiat,500e,bev,234,2017,8,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,705,2017,8,hybridcars.com
+Ford Focus,Ford,Focus,bev,131,2017,8,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,762,2017,8,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,66,2017,8,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,200,2017,8,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,182,2017,8,hybridcars.com
+Kia Soul,Kia,Soul,bev,300,2017,8,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,58,2017,8,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,212,2017,8,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,23,2017,8,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,32,2017,8,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,86,2017,8,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1154,2017,8,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,178,2017,8,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,1,2017,8,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,94,2017,8,hybridcars.com
+Tesla Model 3,Tesla,Model 3,bev,70,2017,8,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,2100,2017,8,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1700,2017,8,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1820,2017,8,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,317,2017,8,hybridcars.com
+Volvo XC60,Volvo,XC60,phev,65,2017,8,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,265,2017,8,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,85,2017,9,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,329,2017,9,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,511,2017,9,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,43,2017,9,hybridcars.com
+BMW i3,BMW,i3,bev,538,2017,9,hybridcars.com
+BMW i8,BMW,i8,phev,27,2017,9,hybridcars.com
+BMW X5,BMW,X5,phev,333,2017,9,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,27,2017,9,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2632,2017,9,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1453,2017,9,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,450,2017,9,hybridcars.com
+Fiat 500e,Fiat,500e,bev,305,2017,9,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,683,2017,9,hybridcars.com
+Ford Focus,Ford,Focus,bev,131,2017,9,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,763,2017,9,hybridcars.com
+Honda Clarity B,Honda,Clarity B,bev,52,2017,9,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,36,2017,9,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,175,2017,9,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,228,2017,9,hybridcars.com
+Kia Soul,Kia,Soul,bev,255,2017,9,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,87,2017,9,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,126,2017,9,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,14,2017,9,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,35,2017,9,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,80,2017,9,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,1055,2017,9,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,124,2017,9,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,1,2017,9,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,123,2017,9,hybridcars.com
+Tesla Model 3,Tesla,Model 3,bev,120,2017,9,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,4500,2017,9,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,3400,2017,9,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1899,2017,9,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,187,2017,9,hybridcars.com
+Volvo XC60,Volvo,XC60,phev,97,2017,9,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,236,2017,9,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,17,2017,10,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,307,2017,10,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,596,2017,10,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,55,2017,10,hybridcars.com
+BMW i3,BMW,i3,bev,686,2017,10,hybridcars.com
+BMW i8,BMW,i8,phev,33,2017,10,hybridcars.com
+BMW X5,BMW,X5,phev,329,2017,10,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,27,2017,10,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2781,2017,10,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1362,2017,10,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,152,2017,10,hybridcars.com
+Fiat 500e,Fiat,500e,bev,240,2017,10,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,569,2017,10,hybridcars.com
+Ford Focus,Ford,Focus,bev,115,2017,10,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,741,2017,10,hybridcars.com
+Honda Clarity B,Honda,Clarity B,bev,34,2017,10,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,28,2017,10,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,110,2017,10,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,235,2017,10,hybridcars.com
+Kia Soul,Kia,Soul,bev,210,2017,10,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,59,2017,10,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,49,2017,10,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,8,2017,10,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,16,2017,10,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,56,2017,10,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,213,2017,10,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,73,2017,10,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,2,2017,10,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,73,2017,10,hybridcars.com
+Tesla Model 3,Tesla,Model 3,bev,150,2017,10,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1100,2017,10,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,900,2017,10,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1626,2017,10,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,203,2017,10,hybridcars.com
+Volvo S90 Plug In,Volvo,S90 Plug In,phev,28,2017,10,hybridcars.com
+Volvo XC60,Volvo,XC60,phev,100,2017,10,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,174,2017,10,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,38,2017,11,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,477,2017,11,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,872,2017,11,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,120,2017,11,hybridcars.com
+BMW i3,BMW,i3,bev,283,2017,11,hybridcars.com
+BMW i8,BMW,i8,phev,44,2017,11,hybridcars.com
+BMW X5,BMW,X5,phev,929,2017,11,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,29,2017,11,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2987,2017,11,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,7,2017,11,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1702,2017,11,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,264,2017,11,hybridcars.com
+Fiat 500e,Fiat,500e,bev,235,2017,11,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,523,2017,11,hybridcars.com
+Ford Focus,Ford,Focus,bev,121,2017,11,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,731,2017,11,hybridcars.com
+Honda Clarity B,Honda,Clarity B,bev,464,2017,11,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,23,2017,11,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,91,2017,11,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,213,2017,11,hybridcars.com
+Kia Soul,Kia,Soul,bev,207,2017,11,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,31,2017,11,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,16,2017,11,hybridcars.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,41,2017,11,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,22,2017,11,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,96,2017,11,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,175,2017,11,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,38,2017,11,hybridcars.com
+Porsche Panamera S-E,Porsche,Panamera S-E,phev,5,2017,11,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,68,2017,11,hybridcars.com
+Tesla Model 3,Tesla,Model 3,bev,350,2017,11,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,1400,2017,11,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,1800,2017,11,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1834,2017,11,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,289,2017,11,hybridcars.com
+Volvo S90 Plug In,Volvo,S90 Plug In,phev,32,2017,11,hybridcars.com
+Volvo XC60,Volvo,XC60,phev,82,2017,11,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,204,2017,11,hybridcars.com
+Audi A3 Plug In,Audi,A3 Plug In,phev,270,2017,12,hybridcars.com
+BMW 3-Series Plug in,BMW,3-Series Plug in,phev,363,2017,12,hybridcars.com
+BMW 5-Series Plug in,BMW,5-Series Plug in,phev,706,2017,12,hybridcars.com
+BMW 7-Series Plug in,BMW,7-Series Plug in,phev,67,2017,12,hybridcars.com
+BMW i3,BMW,i3,bev,672,2017,12,hybridcars.com
+BMW i8,BMW,i8,phev,80,2017,12,hybridcars.com
+BMW X5,BMW,X5,phev,832,2017,12,hybridcars.com
+Cadillac CT6,Cadillac,CT6,phev,35,2017,12,hybridcars.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,3227,2017,12,hybridcars.com
+Chevrolet Spark,Chevrolet,Spark,bev,2,2017,12,hybridcars.com
+Chevrolet Volt,Chevrolet,Volt,phev,1937,2017,12,hybridcars.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,223,2017,12,hybridcars.com
+Fiat 500e,Fiat,500e,bev,200,2017,12,hybridcars.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,436,2017,12,hybridcars.com
+Ford Focus,Ford,Focus,bev,113,2017,12,hybridcars.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,875,2017,12,hybridcars.com
+Honda Clarity B,Honda,Clarity B,bev,527,2017,12,hybridcars.com
+Honda Clarity Plug In,Honda,Clarity Plug In,phev,898,2017,12,hybridcars.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,79,2017,12,hybridcars.com
+Hyundai Sonata Plug In,Hyundai,Sonata Plug In,phev,103,2017,12,hybridcars.com
+Kia Optima Plug In,Kia,Optima Plug In,phev,134,2017,12,hybridcars.com
+Kia Soul,Kia,Soul,bev,204,2017,12,hybridcars.com
+Mercedes B-Class Electric,Mercedes,B-Class Electric,bev,111,2017,12,hybridcars.com
+Mercedes C350We Plug-in,Mercedes,C350We Plug-in,phev,14,2017,12,hybridcars.com
+Mercedes GLE 550e Plug In,Mercedes,GLE 550e Plug In,phev,82,2017,12,hybridcars.com
+Mercedes S550 Plug In,Mercedes,S550 Plug In,phev,26,2017,12,hybridcars.com
+Mini Countryman Plug In,Mini,Countryman Plug In,phev,72,2017,12,hybridcars.com
+Nissan Leaf,Nissan,Leaf,bev,102,2017,12,hybridcars.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,23,2017,12,hybridcars.com
+Smart Fortwo,Smart,Fortwo,bev,129,2017,12,hybridcars.com
+Tesla Model 3,Tesla,Model 3,bev,1050,2017,12,hybridcars.com
+Tesla Model S,Tesla,Model S,bev,4800,2017,12,hybridcars.com
+Tesla Model X,Tesla,Model X,bev,3400,2017,12,hybridcars.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2420,2017,12,hybridcars.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,343,2017,12,hybridcars.com
+Volvo S90 Plug In,Volvo,S90 Plug In,phev,52,2017,12,hybridcars.com
+Volvo XC60,Volvo,XC60,phev,174,2017,12,hybridcars.com
+Volvo XC90 Plug In,Volvo,XC90 Plug In,phev,368,2017,12,hybridcars.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,145,2018,1,insideEVs.com
+BMW 330e,BMW,330e,phev,101,2018,1,insideEVs.com
+BMW 530e,BMW,530e,phev,224,2018,1,insideEVs.com
+BMW 740e,BMW,740e,phev,18,2018,1,insideEVs.com
+BMW i3,BMW,i3,bev,382,2018,1,insideEVs.com
+BMW i8,BMW,i8,phev,32,2018,1,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,261,2018,1,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,6,2018,1,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1177,2018,1,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,713,2018,1,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,375,2018,1,insideEVs.com
+Fiat 500e,Fiat,500e,bev,210,2018,1,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,234,2018,1,insideEVs.com
+Ford Focus,Ford,Focus,bev,70,2018,1,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,640,2018,1,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,604,2018,1,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,153,2018,1,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,22,2018,1,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,49,2018,1,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,52,2018,1,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,1,insideEVs.com
+Kia Niro,Kia,Niro,phev,155,2018,1,insideEVs.com
+Kia Optima,Kia,Optima,phev,86,2018,1,insideEVs.com
+Kia Soul,Kia,Soul,bev,115,2018,1,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,40,2018,1,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,29,2018,1,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,0,2018,1,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,44,2018,1,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,13,2018,1,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,127,2018,1,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,300,2018,1,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,150,2018,1,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,113,2018,1,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,1,2018,1,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,84,2018,1,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,1875,2018,1,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,800,2018,1,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,700,2018,1,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1496,2018,1,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,178,2018,1,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,27,2018,1,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,109,2018,1,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,99,2018,1,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,199,2018,2,insideEVs.com
+BMW 330e,BMW,330e,phev,142,2018,2,insideEVs.com
+BMW 530e,BMW,530e,phev,413,2018,2,insideEVs.com
+BMW 740e,BMW,740e,phev,23,2018,2,insideEVs.com
+BMW i3,BMW,i3,bev,623,2018,2,insideEVs.com
+BMW i8,BMW,i8,phev,39,2018,2,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,596,2018,2,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,24,2018,2,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1424,2018,2,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,983,2018,2,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,450,2018,2,insideEVs.com
+Fiat 500e,Fiat,500e,bev,235,2018,2,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,142,2018,2,insideEVs.com
+Ford Focus,Ford,Focus,bev,73,2018,2,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,794,2018,2,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,911,2018,2,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,74,2018,2,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,3,2018,2,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,178,2018,2,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,54,2018,2,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,2,insideEVs.com
+Kia Niro,Kia,Niro,phev,246,2018,2,insideEVs.com
+Kia Optima,Kia,Optima,phev,103,2018,2,insideEVs.com
+Kia Soul,Kia,Soul,bev,163,2018,2,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,49,2018,2,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,172,2018,2,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,5,2018,2,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,70,2018,2,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,3,2018,2,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,100,2018,2,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,323,2018,2,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,895,2018,2,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,121,2018,2,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,2,2018,2,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,90,2018,2,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,2485,2018,2,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1125,2018,2,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,975,2018,2,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2050,2018,2,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,198,2018,2,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,29,2018,2,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,155,2018,2,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,106,2018,2,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,214,2018,3,insideEVs.com
+BMW 330e,BMW,330e,phev,202,2018,3,insideEVs.com
+BMW 530e,BMW,530e,phev,689,2018,3,insideEVs.com
+BMW 740e,BMW,740e,phev,31,2018,3,insideEVs.com
+BMW i3,BMW,i3,bev,992,2018,3,insideEVs.com
+BMW i8,BMW,i8,phev,47,2018,3,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,627,2018,3,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,17,2018,3,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1774,2018,3,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1782,2018,3,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,480,2018,3,insideEVs.com
+Fiat 500e,Fiat,500e,bev,285,2018,3,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,105,2018,3,insideEVs.com
+Ford Focus,Ford,Focus,bev,137,2018,3,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,782,2018,3,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1131,2018,3,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,48,2018,3,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,60,2018,3,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,218,2018,3,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,78,2018,3,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,3,insideEVs.com
+Kia Niro,Kia,Niro,phev,227,2018,3,insideEVs.com
+Kia Optima,Kia,Optima,phev,156,2018,3,insideEVs.com
+Kia Soul,Kia,Soul,bev,157,2018,3,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,33,2018,3,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,208,2018,3,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,57,2018,3,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,181,2018,3,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,11,2018,3,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,74,2018,3,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,373,2018,3,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1500,2018,3,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,197,2018,3,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,49,2018,3,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,103,2018,3,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,3820,2018,3,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,3375,2018,3,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,2825,2018,3,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2922,2018,3,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,164,2018,3,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,52,2018,3,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,167,2018,3,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,93,2018,3,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,189,2018,4,insideEVs.com
+BMW 330e,BMW,330e,phev,166,2018,4,insideEVs.com
+BMW 530e,BMW,530e,phev,518,2018,4,insideEVs.com
+BMW 740e,BMW,740e,phev,60,2018,4,insideEVs.com
+BMW i3,BMW,i3,bev,503,2018,4,insideEVs.com
+BMW i8,BMW,i8,phev,57,2018,4,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,563,2018,4,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,42,2018,4,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1275,2018,4,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1325,2018,4,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,425,2018,4,insideEVs.com
+Fiat 500e,Fiat,500e,bev,215,2018,4,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,57,2018,4,insideEVs.com
+Ford Focus,Ford,Focus,bev,83,2018,4,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,742,2018,4,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1129,2018,4,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,39,2018,4,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,7,2018,4,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,180,2018,4,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,38,2018,4,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,4,insideEVs.com
+Kia Niro,Kia,Niro,phev,120,2018,4,insideEVs.com
+Kia Optima,Kia,Optima,phev,142,2018,4,insideEVs.com
+Kia Soul,Kia,Soul,bev,152,2018,4,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,7,2018,4,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,158,2018,4,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,59,2018,4,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,93,2018,4,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,9,2018,4,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,106,2018,4,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,273,2018,4,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1171,2018,4,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,265,2018,4,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,336,2018,4,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,80,2018,4,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,3750,2018,4,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1250,2018,4,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1025,2018,4,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2626,2018,4,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,128,2018,4,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,29,2018,4,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,141,2018,4,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,90,2018,4,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,267,2018,5,insideEVs.com
+BMW 330e,BMW,330e,phev,150,2018,5,insideEVs.com
+BMW 530e,BMW,530e,phev,729,2018,5,insideEVs.com
+BMW 740e,BMW,740e,phev,17,2018,5,insideEVs.com
+BMW i3,BMW,i3,bev,424,2018,5,insideEVs.com
+BMW i8,BMW,i8,phev,64,2018,5,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,499,2018,5,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,30,2018,5,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1125,2018,5,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1675,2018,5,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,650,2018,5,insideEVs.com
+Fiat 500e,Fiat,500e,bev,250,2018,5,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,18,2018,5,insideEVs.com
+Ford Focus,Ford,Focus,bev,88,2018,5,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,740,2018,5,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1639,2018,5,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,34,2018,5,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,32,2018,5,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,217,2018,5,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,67,2018,5,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,5,insideEVs.com
+Kia Niro,Kia,Niro,phev,218,2018,5,insideEVs.com
+Kia Optima,Kia,Optima,phev,98,2018,5,insideEVs.com
+Kia Soul,Kia,Soul,bev,133,2018,5,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,3,2018,5,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,166,2018,5,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,64,2018,5,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,83,2018,5,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,7,2018,5,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,163,2018,5,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,297,2018,5,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1576,2018,5,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,59,2018,5,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,275,2018,5,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,110,2018,5,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,6000,2018,5,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1520,2018,5,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1450,2018,5,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2924,2018,5,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,76,2018,5,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,30,2018,5,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,214,2018,5,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,126,2018,5,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,238,2018,6,insideEVs.com
+BMW 330e,BMW,330e,phev,138,2018,6,insideEVs.com
+BMW 530e,BMW,530e,phev,942,2018,6,insideEVs.com
+BMW 740e,BMW,740e,phev,16,2018,6,insideEVs.com
+BMW i3,BMW,i3,bev,580,2018,6,insideEVs.com
+BMW i8,BMW,i8,phev,45,2018,6,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,321,2018,6,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,18,2018,6,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1083,2018,6,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1336,2018,6,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,710,2018,6,insideEVs.com
+Fiat 500e,Fiat,500e,bev,225,2018,6,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,6,2018,6,insideEVs.com
+Ford Focus,Ford,Focus,bev,50,2018,6,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,604,2018,6,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1495,2018,6,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,86,2018,6,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,47,2018,6,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,143,2018,6,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,62,2018,6,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,6,insideEVs.com
+Kia Niro,Kia,Niro,phev,281,2018,6,insideEVs.com
+Kia Optima,Kia,Optima,phev,83,2018,6,insideEVs.com
+Kia Soul,Kia,Soul,bev,57,2018,6,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2018,6,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,176,2018,6,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,66,2018,6,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,75,2018,6,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,7,2018,6,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,211,2018,6,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,390,2018,6,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1367,2018,6,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,12,2018,6,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,168,2018,6,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,126,2018,6,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,5902,2018,6,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,2750,2018,6,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,2550,2018,6,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2237,2018,6,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,32,2018,6,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,35,2018,6,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,226,2018,6,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,133,2018,6,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,220,2018,7,insideEVs.com
+BMW 330e,BMW,330e,phev,106,2018,7,insideEVs.com
+BMW 530e,BMW,530e,phev,536,2018,7,insideEVs.com
+BMW 740e,BMW,740e,phev,40,2018,7,insideEVs.com
+BMW i3,BMW,i3,bev,464,2018,7,insideEVs.com
+BMW i8,BMW,i8,phev,72,2018,7,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,431,2018,7,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,26,2018,7,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1175,2018,7,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1475,2018,7,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,450,2018,7,insideEVs.com
+Fiat 500e,Fiat,500e,bev,220,2018,7,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,4,2018,7,insideEVs.com
+Ford Focus,Ford,Focus,bev,46,2018,7,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,522,2018,7,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1542,2018,7,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,102,2018,7,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,35,2018,7,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,180,2018,7,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,60,2018,7,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,7,insideEVs.com
+Kia Niro,Kia,Niro,phev,225,2018,7,insideEVs.com
+Kia Optima,Kia,Optima,phev,90,2018,7,insideEVs.com
+Kia Soul,Kia,Soul,bev,130,2018,7,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2018,7,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,165,2018,7,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,60,2018,7,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,85,2018,7,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,8,2018,7,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,210,2018,7,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,350,2018,7,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1149,2018,7,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,15,2018,7,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,195,2018,7,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,103,2018,7,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,14250,2018,7,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1200,2018,7,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1325,2018,7,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1984,2018,7,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,18,2018,7,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,30,2018,7,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,185,2018,7,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,115,2018,7,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,240,2018,8,insideEVs.com
+BMW 330e,BMW,330e,phev,192,2018,8,insideEVs.com
+BMW 530e,BMW,530e,phev,749,2018,8,insideEVs.com
+BMW 740e,BMW,740e,phev,18,2018,8,insideEVs.com
+BMW i3,BMW,i3,bev,418,2018,8,insideEVs.com
+BMW i8,BMW,i8,phev,67,2018,8,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,264,2018,8,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,23,2018,8,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1225,2018,8,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1825,2018,8,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,654,2018,8,insideEVs.com
+Fiat 500e,Fiat,500e,bev,75,2018,8,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,4,2018,8,insideEVs.com
+Ford Focus,Ford,Focus,bev,7,2018,8,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,396,2018,8,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1462,2018,8,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,75,2018,8,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,21,2018,8,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,43,2018,8,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,20,2018,8,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,8,insideEVs.com
+Kia Niro,Kia,Niro,phev,346,2018,8,insideEVs.com
+Kia Optima,Kia,Optima,phev,39,2018,8,insideEVs.com
+Kia Soul,Kia,Soul,bev,33,2018,8,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2018,8,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,170,2018,8,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,65,2018,8,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,90,2018,8,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,10,2018,8,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,128,2018,8,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,366,2018,8,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1315,2018,8,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,45,2018,8,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,200,2018,8,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,108,2018,8,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,17800,2018,8,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,2625,2018,8,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,2750,2018,8,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2071,2018,8,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,32,2018,8,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,40,2018,8,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,210,2018,8,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,125,2018,8,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,230,2018,9,insideEVs.com
+BMW 330e,BMW,330e,phev,195,2018,9,insideEVs.com
+BMW 530e,BMW,530e,phev,756,2018,9,insideEVs.com
+BMW 740e,BMW,740e,phev,25,2018,9,insideEVs.com
+BMW i3,BMW,i3,bev,461,2018,9,insideEVs.com
+BMW i8,BMW,i8,phev,55,2018,9,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,225,2018,9,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,11,2018,9,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1549,2018,9,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,2129,2018,9,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,637,2018,9,insideEVs.com
+Fiat 500e,Fiat,500e,bev,94,2018,9,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,12,2018,9,insideEVs.com
+Ford Focus,Ford,Focus,bev,4,2018,9,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,480,2018,9,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1997,2018,9,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,108,2018,9,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,11,2018,9,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,12,2018,9,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,15,2018,9,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,0,2018,9,insideEVs.com
+Kia Niro,Kia,Niro,phev,313,2018,9,insideEVs.com
+Kia Optima,Kia,Optima,phev,17,2018,9,insideEVs.com
+Kia Soul,Kia,Soul,bev,18,2018,9,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2018,9,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,82,2018,9,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,27,2018,9,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,42,2018,9,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,8,2018,9,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,140,2018,9,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,378,2018,9,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1563,2018,9,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,60,2018,9,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,210,2018,9,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,98,2018,9,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,22250,2018,9,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,3750,2018,9,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,3975,2018,9,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2213,2018,9,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,14,2018,9,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,45,2018,9,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,215,2018,9,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,120,2018,9,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,210,2018,10,insideEVs.com
+BMW 330e,BMW,330e,phev,229,2018,10,insideEVs.com
+BMW 530e,BMW,530e,phev,733,2018,10,insideEVs.com
+BMW 740e,BMW,740e,phev,45,2018,10,insideEVs.com
+BMW i3,BMW,i3,bev,424,2018,10,insideEVs.com
+BMW i8,BMW,i8,phev,64,2018,10,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,224,2018,10,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,12,2018,10,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1975,2018,10,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1475,2018,10,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,623,2018,10,insideEVs.com
+Fiat 500e,Fiat,500e,bev,100,2018,10,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,0,2018,10,insideEVs.com
+Ford Focus,Ford,Focus,bev,0,2018,10,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,453,2018,10,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,2025,2018,10,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,106,2018,10,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,21,2018,10,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,128,2018,10,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,5,2018,10,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,5,2018,10,insideEVs.com
+Kia Niro,Kia,Niro,phev,323,2018,10,insideEVs.com
+Kia Optima,Kia,Optima,phev,51,2018,10,insideEVs.com
+Kia Soul,Kia,Soul,bev,61,2018,10,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2018,10,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,75,2018,10,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,20,2018,10,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,28,2018,10,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,5,2018,10,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,117,2018,10,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,309,2018,10,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1234,2018,10,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,25,2018,10,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,170,2018,10,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,95,2018,10,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,17750,2018,10,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1350,2018,10,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1225,2018,10,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2001,2018,10,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,62,2018,10,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,35,2018,10,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,180,2018,10,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,100,2018,10,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,180,2018,11,insideEVs.com
+BMW 330e,BMW,330e,phev,373,2018,11,insideEVs.com
+BMW 530e,BMW,530e,phev,1012,2018,11,insideEVs.com
+BMW 740e,BMW,740e,phev,18,2018,11,insideEVs.com
+BMW i3,BMW,i3,bev,490,2018,11,insideEVs.com
+BMW i8,BMW,i8,phev,133,2018,11,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,213,2018,11,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,13,2018,11,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2825,2018,11,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,2530,2018,11,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,895,2018,11,insideEVs.com
+Fiat 500e,Fiat,500e,bev,148,2018,11,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,0,2018,11,insideEVs.com
+Ford Focus,Ford,Focus,bev,1,2018,11,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,1131,2018,11,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1897,2018,11,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,37,2018,11,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,34,2018,11,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,136,2018,11,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,5,2018,11,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,165,2018,11,insideEVs.com
+Kia Niro,Kia,Niro,phev,619,2018,11,insideEVs.com
+Kia Optima,Kia,Optima,phev,79,2018,11,insideEVs.com
+Kia Soul,Kia,Soul,bev,61,2018,11,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2018,11,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,80,2018,11,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,24,2018,11,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,35,2018,11,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,4,2018,11,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,74,2018,11,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,376,2018,11,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1128,2018,11,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,35,2018,11,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,200,2018,11,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,100,2018,11,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,18650,2018,11,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,2750,2018,11,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,3200,2018,11,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2312,2018,11,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,230,2018,11,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,40,2018,11,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,225,2018,11,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,130,2018,11,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,265,2018,12,insideEVs.com
+BMW 330e,BMW,330e,phev,606,2018,12,insideEVs.com
+BMW 530e,BMW,530e,phev,1363,2018,12,insideEVs.com
+BMW 740e,BMW,740e,phev,28,2018,12,insideEVs.com
+BMW i3,BMW,i3,bev,356,2018,12,insideEVs.com
+BMW i8,BMW,i8,phev,97,2018,12,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,210,2018,12,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,9,2018,12,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1412,2018,12,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1058,2018,12,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,713,2018,12,insideEVs.com
+Fiat 500e,Fiat,500e,bev,193,2018,12,insideEVs.com
+Ford C-Max Energi,Ford,C-Max Energi,phev,0,2018,12,insideEVs.com
+Ford Focus,Ford,Focus,bev,1,2018,12,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,790,2018,12,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,2770,2018,12,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,86,2018,12,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,24,2018,12,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,134,2018,12,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,4,2018,12,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,223,2018,12,insideEVs.com
+Kia Niro,Kia,Niro,phev,316,2018,12,insideEVs.com
+Kia Optima,Kia,Optima,phev,21,2018,12,insideEVs.com
+Kia Soul,Kia,Soul,bev,54,2018,12,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2018,12,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,240,2018,12,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,120,2018,12,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,140,2018,12,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,11,2018,12,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,114,2018,12,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,431,2018,12,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1667,2018,12,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,75,2018,12,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,230,2018,12,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,122,2018,12,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,25250,2018,12,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,3250,2018,12,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,4100,2018,12,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2759,2018,12,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,222,2018,12,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,45,2018,12,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,240,2018,12,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,150,2018,12,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,175,2019,1,insideEVs.com
+BMW 330e,BMW,330e,phev,216,2019,1,insideEVs.com
+BMW 530e,BMW,530e,phev,376,2019,1,insideEVs.com
+BMW 740e,BMW,740e,phev,6,2019,1,insideEVs.com
+BMW i3,BMW,i3,bev,255,2019,1,insideEVs.com
+BMW i8,BMW,i8,phev,23,2019,1,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,71,2019,1,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,8,2019,1,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,925,2019,1,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,675,2019,1,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,436,2019,1,insideEVs.com
+Fiat 500e,Fiat,500e,bev,72,2019,1,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,557,2019,1,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1192,2019,1,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,78,2019,1,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,34,2019,1,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,73,2019,1,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,0,2019,1,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,4,2019,1,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,210,2019,1,insideEVs.com
+Kia Niro,Kia,Niro,phev,279,2019,1,insideEVs.com
+Kia Optima,Kia,Optima,phev,30,2019,1,insideEVs.com
+Kia Soul,Kia,Soul,bev,0,2019,1,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2019,1,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,140,2019,1,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,74,2019,1,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,92,2019,1,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,8,2019,1,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,50,2019,1,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,133,2019,1,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,717,2019,1,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,65,2019,1,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,150,2019,1,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,83,2019,1,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,6500,2019,1,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,725,2019,1,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,775,2019,1,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1123,2019,1,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,164,2019,1,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,35,2019,1,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,90,2019,1,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,95,2019,1,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,210,2019,2,insideEVs.com
+BMW 330e,BMW,330e,phev,185,2019,2,insideEVs.com
+BMW 530e,BMW,530e,phev,414,2019,2,insideEVs.com
+BMW 740e,BMW,740e,phev,14,2019,2,insideEVs.com
+BMW i3,BMW,i3,bev,350,2019,2,insideEVs.com
+BMW i8,BMW,i8,phev,47,2019,2,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,38,2019,2,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,1,2019,2,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1225,2019,2,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,615,2019,2,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,589,2019,2,insideEVs.com
+Fiat 500e,Fiat,500e,bev,87,2019,2,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,573,2019,2,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1213,2019,2,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,68,2019,2,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,32,2019,2,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,54,2019,2,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,16,2019,2,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,71,2019,2,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,186,2019,2,insideEVs.com
+Kia Niro,Kia,Niro,phev,505,2019,2,insideEVs.com
+Kia Optima,Kia,Optima,phev,11,2019,2,insideEVs.com
+Kia Soul,Kia,Soul,bev,1,2019,2,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,2,2019,2,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,145,2019,2,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,72,2019,2,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,95,2019,2,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,10,2019,2,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,63,2019,2,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,157,2019,2,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,654,2019,2,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,95,2019,2,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,160,2019,2,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,58,2019,2,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,27,2019,2,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,5750,2019,2,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,625,2019,2,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,900,2019,2,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1205,2019,2,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,118,2019,2,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,45,2019,2,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,100,2019,2,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,105,2019,2,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,45,2019,3,insideEVs.com
+BMW 330e,BMW,330e,phev,175,2019,3,insideEVs.com
+BMW 530e,BMW,530e,phev,436,2019,3,insideEVs.com
+BMW 740e,BMW,740e,phev,15,2019,3,insideEVs.com
+BMW i3,BMW,i3,bev,359,2019,3,insideEVs.com
+BMW i8,BMW,i8,phev,91,2019,3,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,26,2019,3,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,3,2019,3,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2166,2019,3,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,1230,2019,3,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,383,2019,3,insideEVs.com
+Fiat 500e,Fiat,500e,bev,33,2019,3,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,611,2019,3,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1311,2019,3,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,92,2019,3,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,28,2019,3,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,94,2019,3,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,127,2019,3,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,7,2019,3,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,212,2019,3,insideEVs.com
+Kia Niro,Kia,Niro,phev,230,2019,3,insideEVs.com
+Kia Optima,Kia,Optima,phev,8,2019,3,insideEVs.com
+Kia Soul,Kia,Soul,bev,2,2019,3,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2019,3,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,135,2019,3,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,175,2019,3,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,110,2019,3,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,22,2019,3,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,45,2019,3,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,341,2019,3,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1314,2019,3,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,115,2019,3,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,195,2019,3,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,90,2019,3,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,52,2019,3,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,10175,2019,3,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,2275,2019,3,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,2175,2019,3,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1820,2019,3,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,581,2019,3,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,55,2019,3,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,125,2019,3,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,155,2019,3,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,7,2019,4,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,253,2019,4,insideEVs.com
+BMW 330e,BMW,330e,phev,53,2019,4,insideEVs.com
+BMW 530e,BMW,530e,phev,416,2019,4,insideEVs.com
+BMW 740e,BMW,740e,phev,8,2019,4,insideEVs.com
+BMW i3,BMW,i3,bev,331,2019,4,insideEVs.com
+BMW i8,BMW,i8,phev,87,2019,4,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,9,2019,4,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,2,2019,4,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,910,2019,4,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,405,2019,4,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,347,2019,4,insideEVs.com
+Fiat 500e,Fiat,500e,bev,20,2019,4,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,585,2019,4,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,981,2019,4,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,88,2019,4,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,9,2019,4,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,63,2019,4,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,77,2019,4,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,46,2019,4,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,237,2019,4,insideEVs.com
+Kia Niro,Kia,Niro,bev,40,2019,4,insideEVs.com
+Kia Niro,Kia,Niro,phev,245,2019,4,insideEVs.com
+Kia Optima,Kia,Optima,phev,5,2019,4,insideEVs.com
+Kia Soul,Kia,Soul,bev,0,2019,4,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2019,4,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,173,2019,4,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,220,2019,4,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,150,2019,4,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,35,2019,4,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,37,2019,4,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,163,2019,4,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,951,2019,4,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,70,2019,4,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,155,2019,4,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,85,2019,4,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,47,2019,4,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,10050,2019,4,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,825,2019,4,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1050,2019,4,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1399,2019,4,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,400,2019,4,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,35,2019,4,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,85,2019,4,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,100,2019,4,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,5,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,856,2019,5,insideEVs.com
+BMW 330e,BMW,330e,phev,27,2019,5,insideEVs.com
+BMW 530e,BMW,530e,phev,727,2019,5,insideEVs.com
+BMW 740e,BMW,740e,phev,12,2019,5,insideEVs.com
+BMW i3,BMW,i3,bev,439,2019,5,insideEVs.com
+BMW i8,BMW,i8,phev,145,2019,5,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,4,2019,5,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,0,2019,5,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1396,2019,5,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,408,2019,5,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,390,2019,5,insideEVs.com
+Fiat 500e,Fiat,500e,bev,60,2019,5,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,605,2019,5,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,816,2019,5,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,82,2019,5,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,61,2019,5,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,63,2019,5,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,91,2019,5,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,40,2019,5,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,228,2019,5,insideEVs.com
+Kia Niro,Kia,Niro,bev,119,2019,5,insideEVs.com
+Kia Niro,Kia,Niro,phev,329,2019,5,insideEVs.com
+Kia Optima,Kia,Optima,phev,0,2019,5,insideEVs.com
+Kia Soul,Kia,Soul,bev,1,2019,5,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2019,5,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,215,2019,5,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,264,2019,5,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,185,2019,5,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,51,2019,5,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,85,2019,5,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,232,2019,5,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1216,2019,5,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,105,2019,5,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,170,2019,5,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,106,2019,5,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,65,2019,5,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,13950,2019,5,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1025,2019,5,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1375,2019,5,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1914,2019,5,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,264,2019,5,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,50,2019,5,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,95,2019,5,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,120,2019,5,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,6,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,726,2019,6,insideEVs.com
+BMW 330e,BMW,330e,phev,25,2019,6,insideEVs.com
+BMW 530e,BMW,530e,phev,908,2019,6,insideEVs.com
+BMW 740e,BMW,740e,phev,6,2019,6,insideEVs.com
+BMW i3,BMW,i3,bev,473,2019,6,insideEVs.com
+BMW i8,BMW,i8,phev,280,2019,6,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,8,2019,6,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,2,2019,6,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1659,2019,6,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,333,2019,6,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,391,2019,6,insideEVs.com
+Fiat 500e,Fiat,500e,bev,25,2019,6,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,675,2019,6,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,1030,2019,6,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,52,2019,6,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,62,2019,6,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,152,2019,6,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,116,2019,6,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,30,2019,6,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,236,2019,6,insideEVs.com
+Kia Niro,Kia,Niro,bev,49,2019,6,insideEVs.com
+Kia Niro,Kia,Niro,phev,351,2019,6,insideEVs.com
+Kia Optima,Kia,Optima,phev,51,2019,6,insideEVs.com
+Kia Soul,Kia,Soul,bev,0,2019,6,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,2,2019,6,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,235,2019,6,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,270,2019,6,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,180,2019,6,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,60,2019,6,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,44,2019,6,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,222,2019,6,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1156,2019,6,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,75,2019,6,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,195,2019,6,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,74,2019,6,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,70,2019,6,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,21225,2019,6,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1750,2019,6,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,2725,2019,6,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1144,2019,6,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,366,2019,6,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,40,2019,6,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,175,2019,6,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,170,2019,6,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,7,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,678,2019,7,insideEVs.com
+BMW 330e,BMW,330e,phev,16,2019,7,insideEVs.com
+BMW 530e,BMW,530e,phev,444,2019,7,insideEVs.com
+BMW 740e,BMW,740e,phev,2,2019,7,insideEVs.com
+BMW i3,BMW,i3,bev,304,2019,7,insideEVs.com
+BMW i8,BMW,i8,phev,101,2019,7,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,4,2019,7,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,2,2019,7,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,985,2019,7,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,250,2019,7,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,385,2019,7,insideEVs.com
+Fiat 500e,Fiat,500e,bev,40,2019,7,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,720,2019,7,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,800,2019,7,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,47,2019,7,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,55,2019,7,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,105,2019,7,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,150,2019,7,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,35,2019,7,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,213,2019,7,insideEVs.com
+Kia Niro,Kia,Niro,bev,80,2019,7,insideEVs.com
+Kia Niro,Kia,Niro,phev,325,2019,7,insideEVs.com
+Kia Optima,Kia,Optima,phev,35,2019,7,insideEVs.com
+Kia Soul,Kia,Soul,bev,1,2019,7,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2019,7,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,230,2019,7,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,265,2019,7,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,170,2019,7,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,50,2019,7,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,40,2019,7,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,213,2019,7,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,938,2019,7,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,95,2019,7,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,165,2019,7,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,56,2019,7,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,115,2019,7,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,12550,2019,7,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,975,2019,7,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1225,2019,7,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2950,2019,7,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,460,2019,7,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,45,2019,7,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,140,2019,7,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,110,2019,7,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,8,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,593,2019,8,insideEVs.com
+BMW 330e,BMW,330e,phev,5,2019,8,insideEVs.com
+BMW 530e,BMW,530e,phev,606,2019,8,insideEVs.com
+BMW 740e,BMW,740e,phev,8,2019,8,insideEVs.com
+BMW i3,BMW,i3,bev,385,2019,8,insideEVs.com
+BMW i8,BMW,i8,phev,90,2019,8,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,2,2019,8,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,2,2019,8,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1720,2019,8,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,274,2019,8,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,395,2019,8,insideEVs.com
+Fiat 500e,Fiat,500e,bev,45,2019,8,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,620,2019,8,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,840,2019,8,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,65,2019,8,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,40,2019,8,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,125,2019,8,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,130,2019,8,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,40,2019,8,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,160,2019,8,insideEVs.com
+Kia Niro,Kia,Niro,bev,55,2019,8,insideEVs.com
+Kia Niro,Kia,Niro,phev,300,2019,8,insideEVs.com
+Kia Optima,Kia,Optima,phev,35,2019,8,insideEVs.com
+Kia Soul,Kia,Soul,bev,8,2019,8,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2019,8,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,190,2019,8,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,230,2019,8,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,105,2019,8,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,24,2019,8,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,50,2019,8,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,277,2019,8,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1117,2019,8,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,100,2019,8,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,165,2019,8,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,74,2019,8,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,90,2019,8,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,12350,2019,8,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1050,2019,8,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1825,2019,8,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2500,2019,8,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,689,2019,8,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,55,2019,8,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,105,2019,8,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,125,2019,8,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,9,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,434,2019,9,insideEVs.com
+BMW 330e,BMW,330e,phev,2,2019,9,insideEVs.com
+BMW 530e,BMW,530e,phev,310,2019,9,insideEVs.com
+BMW 740e,BMW,740e,phev,5,2019,9,insideEVs.com
+BMW i3,BMW,i3,bev,467,2019,9,insideEVs.com
+BMW i8,BMW,i8,phev,68,2019,9,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,1,2019,9,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,3,2019,9,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,2125,2019,9,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,350,2019,9,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,415,2019,9,insideEVs.com
+Fiat 500e,Fiat,500e,bev,40,2019,9,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,700,2019,9,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,400,2019,9,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,35,2019,9,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,70,2019,9,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,135,2019,9,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,190,2019,9,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,45,2019,9,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,160,2019,9,insideEVs.com
+Kia Niro,Kia,Niro,bev,90,2019,9,insideEVs.com
+Kia Niro,Kia,Niro,phev,375,2019,9,insideEVs.com
+Kia Optima,Kia,Optima,phev,50,2019,9,insideEVs.com
+Kia Soul,Kia,Soul,bev,65,2019,9,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2019,9,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,130,2019,9,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,180,2019,9,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,65,2019,9,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,16,2019,9,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,30,2019,9,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,176,2019,9,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1048,2019,9,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,105,2019,9,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,175,2019,9,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,54,2019,9,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,120,2019,9,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,19100,2019,9,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1100,2019,9,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1675,2019,9,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,1650,2019,9,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,554,2019,9,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,60,2019,9,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,180,2019,9,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,175,2019,9,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,10,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,462,2019,10,insideEVs.com
+BMW 330e,BMW,330e,phev,5,2019,10,insideEVs.com
+BMW 530e,BMW,530e,phev,305,2019,10,insideEVs.com
+BMW 740e,BMW,740e,phev,4,2019,10,insideEVs.com
+BMW i3,BMW,i3,bev,359,2019,10,insideEVs.com
+BMW i8,BMW,i8,phev,64,2019,10,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,2,2019,10,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,1,2019,10,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1102.333333,2019,10,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,123.3333333,2019,10,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,664,2019,10,insideEVs.com
+Fiat 500e,Fiat,500e,bev,64.33333333,2019,10,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,626,2019,10,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,595,2019,10,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,35,2019,10,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,146,2019,10,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,373,2019,10,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,171,2019,10,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,46,2019,10,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,306,2019,10,insideEVs.com
+Kia Niro,Kia,Niro,bev,189,2019,10,insideEVs.com
+Kia Niro,Kia,Niro,phev,308,2019,10,insideEVs.com
+Kia Optima,Kia,Optima,phev,36,2019,10,insideEVs.com
+Kia Soul,Kia,Soul,bev,5,2019,10,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,1,2019,10,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,242,2019,10,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,278,2019,10,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,179,2019,10,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,53,2019,10,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,25,2019,10,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,255,2019,10,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,887,2019,10,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,100,2019,10,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,173,2019,10,insideEVs.com
+Porsche Taycan,Porsche,Taycan,bev,43.33333333,2019,10,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,0,2019,10,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,135,2019,10,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,15758.33333,2019,10,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1250,2019,10,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1833.333333,2019,10,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2318,2019,10,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,637,2019,10,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,14,2019,10,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,138,2019,10,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,188,2019,10,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,11,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,621,2019,11,insideEVs.com
+BMW 330e,BMW,330e,phev,6,2019,11,insideEVs.com
+BMW 530e,BMW,530e,phev,421,2019,11,insideEVs.com
+BMW 740e,BMW,740e,phev,4,2019,11,insideEVs.com
+BMW i3,BMW,i3,bev,918,2019,11,insideEVs.com
+BMW i8,BMW,i8,phev,55,2019,11,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,1,2019,11,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,0,2019,11,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1102.333333,2019,11,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,123.3333333,2019,11,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,664,2019,11,insideEVs.com
+Fiat 500e,Fiat,500e,bev,64.33333333,2019,11,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,626,2019,11,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,795,2019,11,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,55,2019,11,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,94,2019,11,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,216,2019,11,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,448,2019,11,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,45,2019,11,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,270,2019,11,insideEVs.com
+Kia Niro,Kia,Niro,bev,258,2019,11,insideEVs.com
+Kia Niro,Kia,Niro,phev,325,2019,11,insideEVs.com
+Kia Optima,Kia,Optima,phev,32,2019,11,insideEVs.com
+Kia Soul,Kia,Soul,bev,3,2019,11,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2019,11,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,200,2019,11,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,242,2019,11,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,110,2019,11,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,25,2019,11,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,35,2019,11,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,372,2019,11,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1140,2019,11,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,105,2019,11,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,173,2019,11,insideEVs.com
+Porsche Taycan,Porsche,Taycan,bev,43.33333333,2019,11,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,0,2019,11,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,121,2019,11,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,15758.33333,2019,11,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1250,2019,11,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1833.333333,2019,11,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2790,2019,11,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,366,2019,11,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,13,2019,11,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,156,2019,11,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,172,2019,11,insideEVs.com
+Audi A3 Sportback e-tron,Audi,A3 Sportback e-tron,phev,0,2019,12,insideEVs.com
+Audi e-tron,Audi,e-tron,bev,746,2019,12,insideEVs.com
+BMW 330e,BMW,330e,phev,4,2019,12,insideEVs.com
+BMW 530e,BMW,530e,phev,499,2019,12,insideEVs.com
+BMW 740e,BMW,740e,phev,3,2019,12,insideEVs.com
+BMW i3,BMW,i3,bev,214,2019,12,insideEVs.com
+BMW i8,BMW,i8,phev,51,2019,12,insideEVs.com
+BMW X5xDrive 40e,BMW,X5xDrive 40e,phev,1,2019,12,insideEVs.com
+Cadillac CT6,Cadillac,CT6,phev,0,2019,12,insideEVs.com
+Chevrolet Bolt,Chevrolet,Bolt,bev,1102.333333,2019,12,insideEVs.com
+Chevrolet Volt,Chevrolet,Volt,phev,123.3333333,2019,12,insideEVs.com
+Chrysler Pacifica,Chrysler,Pacifica,phev,664,2019,12,insideEVs.com
+Fiat 500e,Fiat,500e,bev,64.33333333,2019,12,insideEVs.com
+Ford Fusion Energi,Ford,Fusion Energi,phev,626,2019,12,insideEVs.com
+Honda Clarity,Honda,Clarity,phev,755,2019,12,insideEVs.com
+Honda Clarity B,Honda,Clarity B,bev,45,2019,12,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,bev,73,2019,12,insideEVs.com
+Hyundai Ioniq,Hyundai,Ioniq,phev,168,2019,12,insideEVs.com
+Hyundai Kona Electric,Hyundai,Kona Electric,bev,207,2019,12,insideEVs.com
+Hyundai Sonata,Hyundai,Sonata,phev,54,2019,12,insideEVs.com
+Jaguar I-Pace,Jaguar,I-Pace,bev,176,2019,12,insideEVs.com
+Kia Niro,Kia,Niro,bev,286,2019,12,insideEVs.com
+Kia Niro,Kia,Niro,phev,309,2019,12,insideEVs.com
+Kia Optima,Kia,Optima,phev,42,2019,12,insideEVs.com
+Kia Soul,Kia,Soul,bev,1,2019,12,insideEVs.com
+Mercedes B250e,Mercedes,B250e,bev,0,2019,12,insideEVs.com
+Mercedes C350e,Mercedes,C350e,phev,137,2019,12,insideEVs.com
+Mercedes GLC 350e,Mercedes,GLC 350e,phev,189,2019,12,insideEVs.com
+Mercedes GLE 550e,Mercedes,GLE 550e,phev,68,2019,12,insideEVs.com
+Mercedes S550e,Mercedes,S550e,phev,17,2019,12,insideEVs.com
+Mini Countryman SE,Mini,Countryman SE,phev,20,2019,12,insideEVs.com
+Mitsubishi Outlander,Mitsubishi,Outlander,phev,269,2019,12,insideEVs.com
+Nissan Leaf,Nissan,Leaf,bev,1227,2019,12,insideEVs.com
+Porsche Cayenne S-E,Porsche,Cayenne S-E,phev,110,2019,12,insideEVs.com
+Porsche Panamera E,Porsche,Panamera E,phev,184,2019,12,insideEVs.com
+Porsche Taycan,Porsche,Taycan,bev,130,2019,12,insideEVs.com
+Smart Fortwo,Smart,Fortwo,bev,0,2019,12,insideEVs.com
+Subaru Crosstrek,Subaru,Crosstrek,phev,128,2019,12,insideEVs.com
+Tesla Model 3,Tesla,Model 3,bev,15758.33333,2019,12,insideEVs.com
+Tesla Model S,Tesla,Model S,bev,1250,2019,12,insideEVs.com
+Tesla Model X,Tesla,Model X,bev,1833.333333,2019,12,insideEVs.com
+Toyota Prius Prime,Toyota,Prius Prime,phev,2817,2019,12,insideEVs.com
+Volkswagen e-Golf,Volkswagen,e-Golf,bev,264,2019,12,insideEVs.com
+Volvo S90 T8,Volvo,S90 T8,phev,9,2019,12,insideEVs.com
+Volvo XC60,Volvo,XC60,phev,214,2019,12,insideEVs.com
+Volvo XC90 T8,Volvo,XC90 T8,phev,157,2019,12,insideEVs.com

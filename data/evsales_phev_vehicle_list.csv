@@ -1,0 +1,136 @@
+vehicle,category,year,taxcredit
+Audi A3 Plug In,phev,2015,4502
+Audi A3 Plug In,phev,2016,4502
+Audi A3 Plug In,phev,2017,4502
+Audi A3 Sportback e-tron,phev,2018,4502
+Audi A3 Sportback e-tron,phev,2019,4502
+BMW 3-Series Plug in,phev,2016,4001
+BMW 3-Series Plug in,phev,2017,4001
+BMW 330e,phev,2018,4001
+BMW 330e,phev,2019,4001
+BMW 5-Series Plug in,phev,2017,4668
+BMW 530e,phev,2018,4668
+BMW 530e,phev,2019,4668
+BMW 7-Series Plug in,phev,2016,4668
+BMW 7-Series Plug in,phev,2017,4668
+BMW 740e,phev,2018,4668
+BMW 740e,phev,2019,4668
+BMW i8,phev,2014,3793
+BMW i8,phev,2015,3793
+BMW i8,phev,2016,3793
+BMW i8,phev,2017,3793
+BMW i8,phev,2018,3793
+BMW i8,phev,2019,5669
+BMW X5,phev,2015,4668
+BMW X5,phev,2016,4688
+BMW X5,phev,2017,4688
+BMW X5xDrive 40e,phev,2018,4688
+BMW X5xDrive 40e,phev,2019,4688
+Cadillac CT6,phev,2017,7500
+Cadillac CT6,phev,2018,7500
+Cadillac CT6,phev,2019,7500
+Cadillac ELR,phev,2013,7500
+Cadillac ELR,phev,2014,7500
+Cadillac ELR,phev,2015,7500
+Cadillac ELR,phev,2016,7500
+Cadillac ELR,phev,2017,7500
+Chevrolet Volt,phev,2010,7500
+Chevrolet Volt,phev,2011,7500
+Chevrolet Volt,phev,2012,7500
+Chevrolet Volt,phev,2013,7500
+Chevrolet Volt,phev,2014,7500
+Chevrolet Volt,phev,2015,7500
+Chevrolet Volt,phev,2016,7500
+Chevrolet Volt,phev,2017,7500
+Chevrolet Volt,phev,2018,7500
+Chevrolet Volt,phev,2019,7500
+Chrysler Pacifica,phev,2017,7500
+Chrysler Pacifica,phev,2018,7500
+Chrysler Pacifica,phev,2019,7500
+Ford C-Max Energi,phev,2012,4007
+Ford C-Max Energi,phev,2013,4007
+Ford C-Max Energi,phev,2014,4007
+Ford C-Max Energi,phev,2015,4007
+Ford C-Max Energi,phev,2016,4007
+Ford C-Max Energi,phev,2017,4007
+Ford C-Max Energi,phev,2018,4007
+Ford Fusion Energi,phev,2013,4007
+Ford Fusion Energi,phev,2014,4007
+Ford Fusion Energi,phev,2015,4007
+Ford Fusion Energi,phev,2016,4007
+Ford Fusion Energi,phev,2017,4007
+Ford Fusion Energi,phev,2018,4007
+Ford Fusion Energi,phev,2019,4609
+Honda Accord Plug In,phev,2013,3626
+Honda Accord Plug In,phev,2014,3626
+Honda Accord Plug In,phev,2015,3626
+Honda Clarity,phev,2018,7500
+Honda Clarity,phev,2019,7500
+Honda Clarity Plug In,phev,2017,7500
+Hyundai Ioniq,phev,2018,4543
+Hyundai Ioniq,phev,2019,4543
+Hyundai Sonata,phev,2018,4919
+Hyundai Sonata,phev,2019,4919
+Hyundai Sonata Plug In,phev,2015,4919
+Hyundai Sonata Plug In,phev,2016,4919
+Hyundai Sonata Plug In,phev,2017,4919
+Kia Niro,phev,2018,4543
+Kia Niro,phev,2019,4543
+Kia Optima,phev,2018,4919
+Kia Optima,phev,2019,4919
+Kia Optima Plug In,phev,2017,4919
+Mercedes C350e,phev,2018,3501
+Mercedes C350e,phev,2019,3501
+Mercedes C350We Plug-in,phev,2016,3501
+Mercedes C350We Plug-in,phev,2017,3501
+Mercedes GLC 350e,phev,2018,4460
+Mercedes GLC 350e,phev,2019,4460
+Mercedes GLE 550e,phev,2016,4460
+Mercedes GLE 550e,phev,2017,4460
+Mercedes GLE 550e,phev,2018,4460
+Mercedes GLE 550e,phev,2019,4460
+Mercedes GLE 550e Plug In,phev,2017,4460
+Mercedes S550 Plug In,phev,2015,4460
+Mercedes S550 Plug In,phev,2016,4460
+Mercedes S550 Plug In,phev,2017,4460
+Mercedes S550e,phev,2018,4460
+Mercedes S550e,phev,2019,4460
+Mini Countryman Plug In,phev,2017,4001
+Mini Countryman SE,phev,2018,4001
+Mini Countryman SE,phev,2019,4001
+Mitsubishi Outlander,phev,2018,5836
+Mitsubishi Outlander,phev,2019,5836
+Porsche Cayenne S-E,phev,2014,5336
+Porsche Cayenne S-E,phev,2015,5336
+Porsche Cayenne S-E,phev,2016,5336
+Porsche Cayenne S-E,phev,2017,5336
+Porsche Cayenne S-E,phev,2018,5336
+Porsche Cayenne S-E,phev,2019,6712
+Porsche Panamera E,phev,2018,6670
+Porsche Panamera E,phev,2019,6712
+Porsche Panamera S-E,phev,2013,4752
+Porsche Panamera S-E,phev,2014,4752
+Porsche Panamera S-E,phev,2015,4752
+Porsche Panamera S-E,phev,2016,4752
+Porsche Panamera S-E,phev,2017,4752
+Subaru Crosstrek,phev,2019,4502
+Toyota Prius,phev,2012,2500
+Toyota Prius,phev,2013,2500
+Toyota Prius,phev,2014,2500
+Toyota Prius,phev,2015,2500
+Toyota Prius,phev,2016,2500
+Toyota Prius Prime,phev,2016,4502
+Toyota Prius Prime,phev,2017,4502
+Toyota Prius Prime,phev,2018,4502
+Toyota Prius Prime,phev,2019,4502
+Volvo S90 Plug In,phev,2017,5002
+Volvo S90 T8,phev,2018,5002
+Volvo S90 T8,phev,2019,5002
+Volvo XC60,phev,2017,5002
+Volvo XC60,phev,2018,5002
+Volvo XC60,phev,2019,5002
+Volvo XC90 Plug In,phev,2015,4585
+Volvo XC90 Plug In,phev,2016,4585
+Volvo XC90 Plug In,phev,2017,4585
+Volvo XC90 T8,phev,2018,5002
+Volvo XC90 T8,phev,2019,5002
