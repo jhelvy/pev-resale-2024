@@ -1,0 +1,73 @@
+vehicle,brand,model,category,sales,year,month,source,taxcredit
+Cadillac CT6,Cadillac,CT6,phev,8,2019,1,insideEVs.com,7500
+Cadillac CT6,Cadillac,CT6,phev,1,2019,2,insideEVs.com,7500
+Cadillac CT6,Cadillac,CT6,phev,3,2019,3,insideEVs.com,7500
+Cadillac CT6,Cadillac,CT6,phev,2,2019,4,insideEVs.com,3750
+Cadillac CT6,Cadillac,CT6,phev,0,2019,5,insideEVs.com,3750
+Cadillac CT6,Cadillac,CT6,phev,2,2019,6,insideEVs.com,3750
+Cadillac CT6,Cadillac,CT6,phev,2,2019,7,insideEVs.com,3570
+Cadillac CT6,Cadillac,CT6,phev,2,2019,8,insideEVs.com,3570
+Cadillac CT6,Cadillac,CT6,phev,3,2019,9,insideEVs.com,3570
+Cadillac CT6,Cadillac,CT6,phev,1,2019,10,insideEVs.com,1875
+Cadillac CT6,Cadillac,CT6,phev,0,2019,11,insideEVs.com,1875
+Cadillac CT6,Cadillac,CT6,phev,0,2019,12,insideEVs.com,1875
+Chevrolet Bolt,Chevrolet,Bolt,bev,925,2019,1,insideEVs.com,7500
+Chevrolet Bolt,Chevrolet,Bolt,bev,1225,2019,2,insideEVs.com,7500
+Chevrolet Bolt,Chevrolet,Bolt,bev,2166,2019,3,insideEVs.com,7500
+Chevrolet Bolt,Chevrolet,Bolt,bev,910,2019,4,insideEVs.com,3750
+Chevrolet Bolt,Chevrolet,Bolt,bev,1396,2019,5,insideEVs.com,3750
+Chevrolet Bolt,Chevrolet,Bolt,bev,1659,2019,6,insideEVs.com,3750
+Chevrolet Bolt,Chevrolet,Bolt,bev,985,2019,7,insideEVs.com,3570
+Chevrolet Bolt,Chevrolet,Bolt,bev,1720,2019,8,insideEVs.com,3570
+Chevrolet Bolt,Chevrolet,Bolt,bev,2125,2019,9,insideEVs.com,3570
+Chevrolet Bolt,Chevrolet,Bolt,bev,1102.333333,2019,10,insideEVs.com,1875
+Chevrolet Bolt,Chevrolet,Bolt,bev,1102.333333,2019,11,insideEVs.com,1875
+Chevrolet Bolt,Chevrolet,Bolt,bev,1102.333333,2019,12,insideEVs.com,1875
+Chevrolet Volt,Chevrolet,Volt,phev,675,2019,1,insideEVs.com,7500
+Chevrolet Volt,Chevrolet,Volt,phev,615,2019,2,insideEVs.com,7500
+Chevrolet Volt,Chevrolet,Volt,phev,1230,2019,3,insideEVs.com,7500
+Chevrolet Volt,Chevrolet,Volt,phev,405,2019,4,insideEVs.com,3750
+Chevrolet Volt,Chevrolet,Volt,phev,408,2019,5,insideEVs.com,3750
+Chevrolet Volt,Chevrolet,Volt,phev,333,2019,6,insideEVs.com,3750
+Chevrolet Volt,Chevrolet,Volt,phev,250,2019,7,insideEVs.com,3570
+Chevrolet Volt,Chevrolet,Volt,phev,274,2019,8,insideEVs.com,3570
+Chevrolet Volt,Chevrolet,Volt,phev,350,2019,9,insideEVs.com,3570
+Chevrolet Volt,Chevrolet,Volt,phev,123.3333333,2019,10,insideEVs.com,1875
+Chevrolet Volt,Chevrolet,Volt,phev,123.3333333,2019,11,insideEVs.com,1875
+Chevrolet Volt,Chevrolet,Volt,phev,123.3333333,2019,12,insideEVs.com,1875
+Tesla Model 3,Tesla,Model 3,bev,6500,2019,1,insideEVs.com,3750
+Tesla Model 3,Tesla,Model 3,bev,5750,2019,2,insideEVs.com,3750
+Tesla Model 3,Tesla,Model 3,bev,10175,2019,3,insideEVs.com,3750
+Tesla Model 3,Tesla,Model 3,bev,10050,2019,4,insideEVs.com,3750
+Tesla Model 3,Tesla,Model 3,bev,13950,2019,5,insideEVs.com,3750
+Tesla Model 3,Tesla,Model 3,bev,21225,2019,6,insideEVs.com,3750
+Tesla Model 3,Tesla,Model 3,bev,12550,2019,7,insideEVs.com,1875
+Tesla Model 3,Tesla,Model 3,bev,12350,2019,8,insideEVs.com,1875
+Tesla Model 3,Tesla,Model 3,bev,19100,2019,9,insideEVs.com,1875
+Tesla Model 3,Tesla,Model 3,bev,15758.33333,2019,10,insideEVs.com,1875
+Tesla Model 3,Tesla,Model 3,bev,15758.33333,2019,11,insideEVs.com,1875
+Tesla Model 3,Tesla,Model 3,bev,15758.33333,2019,12,insideEVs.com,1875
+Tesla Model S,Tesla,Model S,bev,725,2019,1,insideEVs.com,3750
+Tesla Model S,Tesla,Model S,bev,625,2019,2,insideEVs.com,3750
+Tesla Model S,Tesla,Model S,bev,2275,2019,3,insideEVs.com,3750
+Tesla Model S,Tesla,Model S,bev,825,2019,4,insideEVs.com,3750
+Tesla Model S,Tesla,Model S,bev,1025,2019,5,insideEVs.com,3750
+Tesla Model S,Tesla,Model S,bev,1750,2019,6,insideEVs.com,3750
+Tesla Model S,Tesla,Model S,bev,975,2019,7,insideEVs.com,1875
+Tesla Model S,Tesla,Model S,bev,1050,2019,8,insideEVs.com,1875
+Tesla Model S,Tesla,Model S,bev,1100,2019,9,insideEVs.com,1875
+Tesla Model S,Tesla,Model S,bev,1250,2019,10,insideEVs.com,1875
+Tesla Model S,Tesla,Model S,bev,1250,2019,11,insideEVs.com,1875
+Tesla Model S,Tesla,Model S,bev,1250,2019,12,insideEVs.com,1875
+Tesla Model X,Tesla,Model X,bev,775,2019,1,insideEVs.com,3750
+Tesla Model X,Tesla,Model X,bev,900,2019,2,insideEVs.com,3750
+Tesla Model X,Tesla,Model X,bev,2175,2019,3,insideEVs.com,3750
+Tesla Model X,Tesla,Model X,bev,1050,2019,4,insideEVs.com,3750
+Tesla Model X,Tesla,Model X,bev,1375,2019,5,insideEVs.com,3750
+Tesla Model X,Tesla,Model X,bev,2725,2019,6,insideEVs.com,3750
+Tesla Model X,Tesla,Model X,bev,1225,2019,7,insideEVs.com,1875
+Tesla Model X,Tesla,Model X,bev,1825,2019,8,insideEVs.com,1875
+Tesla Model X,Tesla,Model X,bev,1675,2019,9,insideEVs.com,1875
+Tesla Model X,Tesla,Model X,bev,1833.333333,2019,10,insideEVs.com,1875
+Tesla Model X,Tesla,Model X,bev,1833.333333,2019,11,insideEVs.com,1875
+Tesla Model X,Tesla,Model X,bev,1833.333333,2019,12,insideEVs.com,1875

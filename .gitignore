@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+large_data
+models-temp
+
+# Ignore raw data files
+
+depreciation.parquet
+depreciation
