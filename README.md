@@ -1,5 +1,11 @@
 
-Replication materials for study comparing resale value of different vehicle powertrains.
+You can use this DOI to cite this repository:
+
+[![DOI](https://zenodo.org/badge/744563809.svg)](https://zenodo.org/doi/10.5281/zenodo.11041585)
+
+Replication materials for study comparing resale value of different vehicle powertrains. Paper:
+
+> Roberson, Laura A., Pantha, S., & Helveston, J.P. (2024) “Battery-Powered Bargains? Assessing Electric Vehicle Resale Value in the United States” _Environmental Research Letters_. DOI: [10.1088/1748-9326/ad3fce](https://doi.org/10.1088/1748-9326/ad3fce)
 
 All code to replicate results are in the "code" folder.
 
